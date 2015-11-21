@@ -1,0 +1,157 @@
+---
+title       : Crisis Outreach Team Outcomes
+subtitle    : An Interactive Dashborad to Explore the Outcomes of the Crisis Outreach Team Intervention
+author      : Henry Durant
+job         : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : [interactive, bootstrap]     # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+
+## Background: Crisis Outreach Team
+
+```{r, echo = FALSE, cache = FALSE, warning = FALSE, message = FALSE}
+Dispatches <- read.csv("data/APDdata.csv", header = TRUE)
+library(dplyr)
+library(lubridate)
+PeopleServed <- nrow(Dispatches)
+Dispatches$Date.of.Dispatch <- mdy(Dispatches$Date.of.Dispatch)
+Dispatches <- arrange(Dispatches, Date.of.Dispatch)
+LastDate <- tail(Dispatches$Date.of.Dispatch, n =1)
+
+```
+
+The Crisis Outreach Team has been working with the Austin Police Department (APD) and the Pflugerville Police Department (PPD) to create more positive outcomes for those with mental illness who come into contact with Law Enforcement. The program has been running since 1/1/15, and has worked with `r I(PeopleServed)` people between then and `r I(LastDate)`. 
+
+
+---
+
+## The Process
+ 
+```{r, echo = FALSE, cache = FALSE, warning = FALSE, message = FALSE}
+Diverted <- nrow(filter(Dispatches, Outcome != "Psych Involuntary" & Outcome != "Arrested")) 
+
+```
+ 
+When law enforcement suspect a person to be experiencing mental illness, they call the Crisis Outreach team to the scene, who work with people to find the outcome that provides the most appropriate level of care in the least restrictive environment. Ideally, the crisis outreach team works with the person in the community to link them to services. A person is seen as 'Diverted' if they do not enter the justice system. This means they are not arrested or taken against their will to a treatment facility. Since 1/1/15, `r I(Diverted)` people have been diveted from the justice system after the Crisis Team intervened. 
+
+---
+
+## Who Wants to Know What?
+
+There are numerous interest groups eager to examine the outcomes of this service from many different perspectives. The following application allows the exploration of outcomes by several parameters. These include the primary reason for the team's dispatch, which includes psychosis, suicidal ideation, self injurious behaviour, disturbance of mood, and prescription issues.
+
+---
+
+##More about the App 
+
+You may select outcomes for Austin Police Department (APD), Pflugerville Police Department (PPD), or both departments (All). You may also select a date range. The data runs from 1/1/15 - `r I(LastDate)` (and is simulated in this case).
+
+The Different Outcomes Possible Are:
+1. Psych Voluntary: Person agreed to be taken to a Psychiatric Hospital.
+2. Psych Involuntary: Person was taken against their will by police to a Psychiatric Hospital as they were considered a danger to themselves or others. 
+3. ER Voluntary: Person agreed to be taken to an emergency room for assessment. 
+4. ER Involuntary: Person was taken against their will to an emergency room by the police due to being a danger to themselves or others.
+5. Arrested: The person was arrested. 
+6. Community-Followup: Person was safe to leave in the community and will be followed up with by the Crisis Team.
+7. Community-Declined Service: Person was deemed safe to be left in the community, but declined further assistance from the Crisis Team. 
+
+---
+
+## The App
+
+I couldn't make the shiny app work in slidify, I am looking forward to seeing some examples when marking!!
+```{r, echo = FALSE, cache = FALSE}
+
+library(shiny)
+library(ggplot2)
+library(ggplot2)
+library(dplyr)
+library(lubridate)
+
+
+Dispatches <- read.csv("data/APDdata.csv", header = TRUE)
+
+shinyApp(
+        
+ui = fluidPage(    
+                
+                ## Give the page a title
+                titlePanel("Outcomes From the Intervention of the Crisis Outreach Team"),
+              
+                # Generate a row with a sidebar
+                sidebarLayout(      
+                        
+                        # Define the sidebar with one input
+                        sidebarPanel(
+                                selectInput("Call.Type", "Referral Source:", 
+                                            choices=c("APD", "PPD", "All 911")),
+                                ## hr(),
+                                selectInput("ReasonForDispatch", "Reason For Dispatch:", 
+                                            choices=c("All", "Psychosis", "Suicidal Ideation", "Disturbance of Mood", 
+                                                      "Self Injurious Behavior", "Substance Related")),
+                                ##  helpText("Data from APD"),
+                                dateInput("DateFrom", "Date From: mm-dd-yyyy", format = "mm-dd-yyyy"),
+                                helpText("APD started in 1/2/15, PPD started 1/1/15"),
+                                dateInput("DateTo", "Date To: mm-dd-yyyy", format = "mm-dd-yyyy"),
+                                submitButton("Submit")
+                        ),
+                        
+                        # Create a spot for the barplot
+                        mainPanel(
+                                plotOutput("OutcomePlot")  
+                        )
+                        
+                )
+        ),
+        
+        
+server = function(input, output) {
+                output$OutcomePlot <- renderPlot({
+                        
+                        ifelse(input$Call.Type == "APD", plotdata <- filter(Dispatches, Call.Type == "APD"),
+                               ifelse(input$Call.Type == "PPD", plotdata <- filter(Dispatches, Call.Type == "PPD"),
+                                      plotdata <- filter(Dispatches, Call.Type == "APD" | Call.Type == "PPD")))
+                        
+                        ifelse(input$ReasonForDispatch == "Psychosis", plotdata <- filter(plotdata, ReasonForDispatch == "Psychosis"),
+                               ifelse(input$ReasonForDispatch == "Suicidal Ideation", plotdata <- filter(plotdata, ReasonForDispatch == "Suicidal Ideation"),
+                                      ifelse(input$ReasonForDispatch == "Disturbance of Mood", plotdata <- filter(plotdata, ReasonForDispatch == "Disturbance of Mood"),
+                                             ifelse(input$ReasonForDispatch == "Substance Related", plotdata <- filter(plotdata, ReasonForDispatch == "Substance Related"),
+                                                    ifelse(input$ReasonForDispatch == "Self Injurious Behavior", plotdata <- filter(plotdata, ReasonForDispatch == "Self Injurious Behavior"),
+                                                           plotdata <= plotdata)))))
+                        
+                        plotdata$Date.of.Dispatch <- mdy(plotdata$Date.of.Dispatch)
+                        plotdata <- subset(plotdata, as.Date(Date.of.Dispatch) >= input$DateFrom)
+                        plotdata <- subset(plotdata, as.Date(Date.of.Dispatch) <= input$DateTo)
+                        
+                        plotdata <- select(plotdata, Outcome)
+                        plotdata <- plotdata %>% group_by(Outcome) %>%
+                                summarise(n())
+                        plotdata <- as.data.frame(plotdata)
+                        colnames(plotdata)[2] <- "Count"
+                        plotdata1 <- within(plotdata, Outcome <- factor(Outcome, 
+                                                                        levels=names(sort(table(Outcome), 
+                                                                                          decreasing=FALSE))))
+                   
+                        graph <- ggplot(plotdata1, aes(x = Outcome, y = Count))+
+                                geom_histogram(stat = "identity")+
+                                coord_flip()
+                        graph
+                        
+                })
+        },
+        
+        
+ options = list(height = 5)       
+)
+
+
+```
+
+
+
+

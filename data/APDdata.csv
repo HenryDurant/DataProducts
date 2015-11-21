@@ -1,0 +1,1109 @@
+CaseNumber,Date of Dispatch,Time of Dispatch,ReasonForDispatch,Outcome,Call.Type
+5255,9/28/2015,7:06 AM,Psychosis,Arrested,APD
+22004,6/21/2015,6:43 PM,Psychosis,Arrested,APD
+4757,6/2/2015,1:35 PM,Psychosis,Community-Followup,APD
+7498,6/10/2015,8:42 AM,Psychosis,Community-Followup,APD
+5889,7/25/2015,1:22 PM,Psychosis,Community-Followup,APD
+765,3/19/2015,5:29 PM,Psychosis,Community-Followup,APD
+481,5/27/2015,10:39 AM,Psychosis,Community-Followup,APD
+21669,2/12/2015,12:19 PM,Psychosis,Community-Followup,APD
+13019,9/17/2015,2:43 PM,Psychosis,Community-Followup,APD
+5628,4/13/2015,10:02 AM,Psychosis,Community-Followup,APD
+6604,1/25/2015,6:36 PM,Psychosis,Community-Followup,APD
+21382,7/31/2015,9:05 AM,Psychosis,Community-Followup,APD
+22831,6/29/2015,8:14 AM,Psychosis,Community-Followup,APD
+16987,5/16/2015,8:26 AM,Psychosis,Community-Followup,APD
+10289,7/22/2015,6:21 PM,Psychosis,Community-Followup,APD
+11762,2/13/2015,11:56 AM,Psychosis,Community-Followup,APD
+14181,9/10/2015,9:15 AM,Psychosis,Community-Followup,APD
+23051,2/1/2015,8:00 PM,Psychosis,Community-Followup,APD
+10489,8/3/2015,2:45 PM,Psychosis,Community-Declined Service,APD
+15903,5/22/2015,8:05 PM,Psychosis,Community-Declined Service,APD
+10687,4/29/2015,5:50 PM,Psychosis,Community-Declined Service,APD
+11844,7/12/2015,12:38 PM,Psychosis,Community-Declined Service,APD
+11393,8/18/2015,8:49 PM,Psychosis,Community-Declined Service,APD
+2688,2/25/2015,3:41 PM,Psychosis,Community-Declined Service,APD
+20154,9/9/2015,8:36 PM,Psychosis,Community-Declined Service,APD
+20155,8/15/2015,12:09 PM,Psychosis,Community-Declined Service,APD
+18362,3/10/2015,3:44 PM,Psychosis,Community-Declined Service,APD
+15647,1/5/2015,2:35 PM,Psychosis,ER Involuntary,APD
+16800,4/8/2015,1:32 PM,Psychosis,ER Involuntary,APD
+22233,5/29/2015,5:08 PM,Psychosis,ER Involuntary,APD
+3987,1/8/2015,7:49 PM,Psychosis,ER Involuntary,APD
+22904,8/18/2015,8:52 AM,Psychosis,ER Involuntary,APD
+17416,8/28/2015,11:25 AM,Psychosis,ER Voluntary,APD
+21181,6/23/2015,8:42 AM,Psychosis,ER Voluntary,APD
+18746,4/1/2015,9:53 PM,Psychosis,ER Voluntary,APD
+4589,8/21/2015,3:48 PM,Psychosis,Psych Involuntary,PPD
+12961,4/10/2015,7:01 PM,Psychosis,Psych Involuntary,PPD
+9118,8/21/2015,9:03 PM,Psychosis,Psych Involuntary,PPD
+8329,7/2/2015,11:23 AM,Psychosis,Psych Involuntary,PPD
+15567,5/31/2015,3:07 PM,Suicidal Ideation,Psych Involuntary,PPD
+13755,9/21/2015,4:06 PM,Suicidal Ideation,Psych Voluntary,PPD
+13308,6/28/2015,3:32 PM,Suicidal Ideation,Psych Voluntary,PPD
+10505,3/28/2015,7:10 PM,Suicidal Ideation,Psych Voluntary,PPD
+11883,7/18/2015,9:30 PM,Suicidal Ideation,Psych Voluntary,PPD
+22867,9/1/2015,11:34 AM,Suicidal Ideation,Psych Voluntary,PPD
+2876,8/26/2015,9:13 AM,Suicidal Ideation,Psych Voluntary,PPD
+14023,4/24/2015,7:32 AM,Suicidal Ideation,Community-Followup,PPD
+5777,3/1/2015,8:28 PM,Suicidal Ideation,Community-Followup,PPD
+14226,3/22/2015,8:14 AM,Suicidal Ideation,Community-Followup,APD
+20044,2/24/2015,3:42 PM,Suicidal Ideation,Community-Followup,APD
+23656,2/27/2015,6:52 PM,Suicidal Ideation,Community-Followup,APD
+13209,6/23/2015,7:59 AM,Suicidal Ideation,Community-Followup,APD
+11827,7/18/2015,12:06 PM,Suicidal Ideation,Community-Followup,APD
+10892,5/2/2015,7:05 AM,Suicidal Ideation,Community-Followup,APD
+11353,9/5/2015,9:03 PM,Suicidal Ideation,Community-Followup,APD
+18301,8/27/2015,10:46 AM,Suicidal Ideation,Community-Followup,APD
+18026,6/16/2015,8:01 AM,Suicidal Ideation,Community-Followup,APD
+1724,4/16/2015,11:31 AM,Suicidal Ideation,Community-Followup,APD
+16244,5/9/2015,8:30 AM,Suicidal Ideation,Community-Followup,APD
+2272,8/15/2015,8:55 PM,Suicidal Ideation,Psych Involuntary,APD
+21849,4/25/2015,6:07 PM,Suicidal Ideation,Psych Involuntary,APD
+14775,3/13/2015,7:21 AM,Suicidal Ideation,Psych Voluntary,APD
+6980,7/20/2015,8:32 AM,Suicidal Ideation,Psych Voluntary,APD
+19931,3/8/2015,3:36 PM,Suicidal Ideation,Arrested,APD
+14753,3/9/2015,8:31 PM,Suicidal Ideation,Arrested,APD
+6373,7/29/2015,11:29 AM,Suicidal Ideation,Community-Followup,APD
+11723,8/8/2015,1:54 PM,Suicidal Ideation,Community-Followup,APD
+7520,2/26/2015,7:56 PM,Suicidal Ideation,Community-Followup,APD
+15859,9/9/2015,7:03 AM,Suicidal Ideation,Community-Followup,APD
+18012,2/18/2015,2:39 PM,Suicidal Ideation,Community-Followup,APD
+23559,6/26/2015,7:13 PM,Suicidal Ideation,Community-Followup,APD
+11896,7/10/2015,8:22 PM,Suicidal Ideation,Community-Followup,APD
+17459,3/22/2015,10:03 PM,Suicidal Ideation,Community-Followup,APD
+7515,8/19/2015,10:09 AM,Suicidal Ideation,Community-Followup,APD
+2943,2/17/2015,8:45 PM,Suicidal Ideation,Community-Followup,APD
+19391,6/14/2015,3:18 PM,Suicidal Ideation,Community-Followup,APD
+21170,7/19/2015,6:16 PM,Suicidal Ideation,Community-Followup,APD
+471,3/20/2015,9:30 PM,Suicidal Ideation,Community-Followup,APD
+1045,5/24/2015,8:06 PM,Suicidal Ideation,Community-Followup,APD
+9475,6/23/2015,9:12 PM,Suicidal Ideation,Community-Followup,APD
+2955,6/24/2015,2:46 PM,Disturbance of Mood,Community-Followup,APD
+15181,8/10/2015,10:03 PM,Disturbance of Mood,Community-Declined Service,APD
+18929,3/6/2015,3:30 PM,Disturbance of Mood,Community-Declined Service,APD
+12535,9/29/2015,5:11 PM,Disturbance of Mood,Community-Declined Service,PPD
+14477,4/13/2015,11:08 AM,Disturbance of Mood,Community-Declined Service,PPD
+3698,4/29/2015,6:08 PM,Disturbance of Mood,Community-Declined Service,PPD
+19636,7/15/2015,10:36 PM,Disturbance of Mood,Community-Declined Service,PPD
+5526,5/22/2015,9:07 AM,Disturbance of Mood,Community-Declined Service,PPD
+15455,9/26/2015,2:10 PM,Disturbance of Mood,Community-Declined Service,PPD
+3228,3/14/2015,3:12 PM,Disturbance of Mood,Community-Declined Service,PPD
+15435,8/18/2015,11:46 AM,Disturbance of Mood,ER Involuntary,PPD
+8159,1/31/2015,9:41 PM,Disturbance of Mood,ER Involuntary,PPD
+11292,6/11/2015,5:51 PM,Disturbance of Mood,ER Involuntary,PPD
+5961,9/15/2015,12:53 PM,Self Injurious Behavior,ER Involuntary,PPD
+13498,6/5/2015,10:38 PM,Self Injurious Behavior,ER Involuntary,PPD
+16966,4/23/2015,9:44 AM,Self Injurious Behavior,ER Voluntary,PPD
+14622,1/6/2015,1:59 PM,Self Injurious Behavior,ER Voluntary,APD
+21548,5/22/2015,10:22 PM,Self Injurious Behavior,ER Voluntary,APD
+8335,4/4/2015,1:28 PM,Self Injurious Behavior,Psych Involuntary,APD
+8264,3/2/2015,12:19 PM,Self Injurious Behavior,Psych Involuntary,APD
+20891,2/23/2015,12:23 PM,Suicidal Ideation,Psych Involuntary,APD
+14186,2/20/2015,10:14 PM,Suicidal Ideation,Psych Involuntary,APD
+14916,4/24/2015,1:08 PM,Suicidal Ideation,Psych Involuntary,APD
+19926,5/26/2015,9:07 AM,Suicidal Ideation,Psych Voluntary,APD
+12832,4/21/2015,4:51 PM,Suicidal Ideation,Psych Voluntary,APD
+15518,1/4/2015,4:50 PM,Psychosis,Psych Voluntary,APD
+7909,8/29/2015,1:02 PM,Psychosis,Psych Voluntary,APD
+21410,8/7/2015,2:30 PM,Psychosis,Psych Voluntary,APD
+23559,7/1/2015,7:07 AM,Psychosis,Psych Voluntary,APD
+19495,5/22/2015,3:30 PM,Psychosis,Community-Followup,APD
+23291,6/9/2015,5:18 PM,Psychosis,Community-Followup,APD
+20766,8/17/2015,8:00 PM,Substance Related,Community-Followup,APD
+10177,7/2/2015,6:30 PM,Substance Related,Community-Followup,APD
+16890,6/13/2015,10:29 PM,Substance Related,Community-Followup,APD
+22763,9/21/2015,10:35 AM,Substance Related,Community-Followup,APD
+17404,1/24/2015,7:24 PM,Substance Related,Community-Followup,APD
+1827,5/22/2015,8:19 PM,Substance Related,Community-Followup,APD
+19048,4/29/2015,5:03 PM,Substance Related,Community-Followup,APD
+15299,6/4/2015,3:54 PM,Substance Related,Community-Followup,APD
+13652,6/28/2015,8:39 PM,Substance Related,Community-Followup,APD
+21666,6/29/2015,9:40 PM,Substance Related,Community-Followup,APD
+18564,2/1/2015,9:41 PM,Substance Related,Community-Followup,APD
+4575,7/17/2015,8:48 PM,Substance Related,Psych Involuntary,APD
+18339,7/15/2015,11:12 AM,Substance Related,Psych Involuntary,APD
+12183,9/5/2015,9:15 PM,Substance Related,Psych Voluntary,APD
+4667,6/22/2015,8:53 PM,Substance Related,Psych Voluntary,APD
+11346,2/21/2015,8:13 PM,Substance Related,Arrested,APD
+7764,2/17/2015,4:29 PM,Substance Related,Arrested,APD
+3230,5/16/2015,5:59 PM,Psychosis,Community-Followup,APD
+6534,4/29/2015,6:25 PM,Psychosis,Community-Followup,APD
+9672,2/14/2015,9:15 AM,Psychosis,Community-Followup,APD
+7296,9/18/2015,2:37 PM,Psychosis,Community-Followup,PPD
+327,6/25/2015,9:44 PM,Psychosis,Community-Followup,PPD
+4299,4/27/2015,9:22 PM,Suicidal Ideation,Community-Followup,PPD
+10366,6/17/2015,7:00 PM,Suicidal Ideation,Community-Followup,PPD
+5337,5/2/2015,5:47 PM,Suicidal Ideation,Community-Followup,PPD
+6173,1/12/2015,8:01 AM,Suicidal Ideation,Community-Followup,PPD
+6969,2/24/2015,11:41 AM,Suicidal Ideation,Community-Followup,PPD
+22270,2/3/2015,5:36 PM,Suicidal Ideation,Community-Followup,PPD
+6600,7/10/2015,9:33 PM,Suicidal Ideation,Community-Followup,PPD
+4423,8/24/2015,2:01 PM,Suicidal Ideation,Community-Followup,PPD
+20795,7/23/2015,7:14 PM,Suicidal Ideation,Community-Followup,PPD
+14462,5/3/2015,7:57 PM,Suicidal Ideation,Community-Followup,PPD
+18405,9/4/2015,2:38 PM,Suicidal Ideation,Community-Followup,PPD
+5610,6/1/2015,1:01 PM,Suicidal Ideation,Community-Declined Service,APD
+17809,8/11/2015,2:54 PM,Suicidal Ideation,Community-Declined Service,APD
+5993,7/1/2015,10:38 PM,Suicidal Ideation,Community-Declined Service,APD
+10999,8/6/2015,10:24 PM,Suicidal Ideation,Community-Declined Service,APD
+9475,2/27/2015,7:47 PM,Suicidal Ideation,Community-Declined Service,APD
+6038,7/18/2015,9:09 AM,Suicidal Ideation,Community-Declined Service,APD
+1152,6/14/2015,12:12 PM,Suicidal Ideation,Community-Declined Service,APD
+19649,9/15/2015,2:22 PM,Suicidal Ideation,Community-Declined Service,APD
+18539,5/1/2015,10:04 AM,Suicidal Ideation,Community-Declined Service,APD
+16590,4/10/2015,12:29 PM,Suicidal Ideation,ER Involuntary,APD
+23131,2/6/2015,9:37 AM,Suicidal Ideation,ER Involuntary,APD
+4193,5/1/2015,8:58 AM,Suicidal Ideation,ER Involuntary,APD
+7983,4/29/2015,12:01 PM,Suicidal Ideation,ER Involuntary,APD
+15929,9/15/2015,1:17 PM,Suicidal Ideation,ER Involuntary,APD
+18222,8/17/2015,11:47 AM,Suicidal Ideation,ER Voluntary,APD
+8899,3/31/2015,8:35 AM,Suicidal Ideation,ER Voluntary,APD
+19673,7/12/2015,1:58 PM,Suicidal Ideation,ER Voluntary,APD
+4344,8/27/2015,8:04 AM,Suicidal Ideation,Psych Involuntary,APD
+23843,2/15/2015,11:02 AM,Suicidal Ideation,Psych Involuntary,APD
+22565,5/14/2015,11:32 AM,Suicidal Ideation,Psych Involuntary,APD
+20636,1/21/2015,9:04 AM,Suicidal Ideation,Psych Involuntary,APD
+855,6/7/2015,11:40 AM,Suicidal Ideation,Psych Involuntary,APD
+646,3/4/2015,7:05 AM,Suicidal Ideation,Psych Voluntary,APD
+22690,1/19/2015,1:34 PM,Disturbance of Mood,Psych Voluntary,APD
+10603,4/17/2015,7:10 AM,Disturbance of Mood,Psych Voluntary,APD
+11456,8/5/2015,7:04 AM,Disturbance of Mood,Psych Voluntary,APD
+2644,9/9/2015,2:37 PM,Psychosis,Psych Voluntary,APD
+21598,8/2/2015,1:25 PM,Psychosis,Psych Voluntary,APD
+419,5/7/2015,2:35 PM,Psychosis,Community-Followup,APD
+12735,2/7/2015,1:44 PM,Psychosis,Community-Followup,APD
+5320,1/28/2015,8:24 AM,Psychosis,Community-Followup,APD
+1040,3/22/2015,9:32 AM,Psychosis,Community-Followup,APD
+17853,1/31/2015,10:43 AM,Psychosis,Community-Followup,APD
+3601,7/18/2015,7:38 AM,Psychosis,Community-Followup,APD
+22179,3/5/2015,9:10 AM,Psychosis,Community-Followup,APD
+14549,8/15/2015,7:01 PM,Psychosis,Community-Followup,PPD
+3313,6/21/2015,9:05 PM,Psychosis,Community-Followup,PPD
+15216,3/4/2015,8:34 PM,Psychosis,Community-Followup,PPD
+19722,7/9/2015,8:55 PM,Psychosis,Community-Followup,PPD
+1688,4/17/2015,10:52 AM,Psychosis,Community-Followup,PPD
+7569,6/11/2015,9:23 AM,Psychosis,Community-Followup,PPD
+3087,7/1/2015,7:05 PM,Psychosis,Psych Involuntary,PPD
+18011,9/23/2015,9:26 AM,Psychosis,Psych Involuntary,PPD
+3225,5/20/2015,6:46 PM,Psychosis,Psych Voluntary,PPD
+2720,8/14/2015,10:41 PM,Psychosis,Psych Voluntary,PPD
+16467,1/20/2015,8:21 PM,Psychosis,Arrested,PPD
+1269,5/13/2015,9:58 PM,Psychosis,Arrested,PPD
+17719,9/17/2015,7:46 AM,Psychosis,Community-Followup,PPD
+18035,9/20/2015,7:16 PM,Psychosis,Community-Followup,APD
+21958,1/18/2015,10:40 AM,Psychosis,Community-Followup,APD
+1236,5/21/2015,8:17 AM,Psychosis,Community-Followup,APD
+17251,6/29/2015,7:04 AM,Psychosis,Community-Followup,APD
+5410,3/28/2015,11:41 AM,Psychosis,Community-Followup,APD
+9831,2/5/2015,6:49 PM,Psychosis,Community-Followup,APD
+3965,2/20/2015,7:30 PM,Psychosis,Community-Followup,APD
+3654,9/22/2015,1:45 PM,Psychosis,Community-Followup,APD
+19257,8/30/2015,5:35 PM,Psychosis,Community-Followup,APD
+2252,3/3/2015,8:26 AM,Psychosis,Community-Followup,APD
+3798,4/15/2015,6:10 PM,Psychosis,Community-Followup,APD
+4721,9/1/2015,7:32 AM,Psychosis,Community-Followup,APD
+16288,7/7/2015,4:10 PM,Psychosis,Community-Followup,APD
+3343,9/24/2015,9:09 AM,Psychosis,Community-Followup,APD
+11108,1/4/2015,3:58 PM,Psychosis,Community-Followup,APD
+22575,1/23/2015,11:35 AM,Psychosis,Community-Declined Service,APD
+23294,4/29/2015,7:08 PM,Psychosis,Community-Declined Service,APD
+3046,7/7/2015,9:32 PM,Suicidal Ideation,Community-Declined Service,APD
+6272,8/2/2015,6:06 PM,Suicidal Ideation,Community-Declined Service,APD
+11261,2/12/2015,9:52 AM,Suicidal Ideation,Community-Declined Service,APD
+15976,2/14/2015,9:17 AM,Suicidal Ideation,Community-Declined Service,APD
+17603,5/25/2015,10:13 AM,Suicidal Ideation,Community-Declined Service,APD
+8172,5/5/2015,10:51 AM,Suicidal Ideation,Community-Declined Service,APD
+11720,3/11/2015,4:20 PM,Suicidal Ideation,Community-Declined Service,APD
+22179,5/12/2015,7:01 AM,Suicidal Ideation,ER Involuntary,APD
+17185,5/2/2015,10:34 PM,Suicidal Ideation,ER Involuntary,APD
+5135,8/26/2015,1:46 PM,Suicidal Ideation,ER Involuntary,APD
+5577,9/24/2015,1:39 PM,Suicidal Ideation,ER Involuntary,APD
+12838,7/13/2015,7:42 PM,Suicidal Ideation,ER Involuntary,APD
+11427,2/3/2015,12:44 PM,Suicidal Ideation,ER Voluntary,APD
+23723,6/17/2015,8:11 AM,Suicidal Ideation,ER Voluntary,APD
+6255,1/3/2015,12:22 PM,Suicidal Ideation,ER Voluntary,APD
+17065,9/9/2015,9:46 PM,Suicidal Ideation,Psych Involuntary,APD
+8317,5/26/2015,4:04 PM,Suicidal Ideation,Psych Involuntary,APD
+15509,8/18/2015,4:33 PM,Suicidal Ideation,Psych Involuntary,APD
+8148,1/28/2015,2:14 PM,Suicidal Ideation,Psych Involuntary,PPD
+17814,5/13/2015,9:38 PM,Suicidal Ideation,Psych Involuntary,PPD
+15783,2/27/2015,12:13 PM,Suicidal Ideation,Psych Voluntary,PPD
+4880,2/5/2015,7:16 PM,Suicidal Ideation,Psych Voluntary,PPD
+22733,8/20/2015,4:03 PM,Suicidal Ideation,Psych Voluntary,PPD
+12869,9/22/2015,11:57 AM,Suicidal Ideation,Psych Voluntary,PPD
+12556,8/16/2015,9:00 AM,Suicidal Ideation,Psych Voluntary,PPD
+10730,3/16/2015,1:22 PM,Suicidal Ideation,Psych Voluntary,PPD
+4391,1/26/2015,9:14 AM,Suicidal Ideation,Community-Followup,PPD
+18208,4/29/2015,8:36 PM,Suicidal Ideation,Community-Followup,PPD
+2279,6/9/2015,5:55 PM,Suicidal Ideation,Community-Followup,PPD
+1886,8/26/2015,10:37 PM,Suicidal Ideation,Community-Followup,PPD
+9345,1/11/2015,6:24 PM,Suicidal Ideation,Community-Followup,PPD
+17703,4/14/2015,2:12 PM,Suicidal Ideation,Community-Followup,APD
+21919,3/3/2015,10:24 AM,Suicidal Ideation,Community-Followup,APD
+7430,7/13/2015,8:55 AM,Suicidal Ideation,Community-Followup,APD
+11801,8/11/2015,11:36 AM,Suicidal Ideation,Community-Followup,APD
+21772,8/28/2015,4:33 PM,Suicidal Ideation,Community-Followup,APD
+3493,5/10/2015,5:13 PM,Suicidal Ideation,Community-Followup,APD
+3477,7/7/2015,3:58 PM,Suicidal Ideation,Community-Followup,APD
+20576,2/26/2015,2:17 PM,Suicidal Ideation,Community-Followup,APD
+2329,3/17/2015,8:36 PM,Suicidal Ideation,Psych Involuntary,APD
+11638,5/12/2015,9:49 PM,Suicidal Ideation,Psych Involuntary,APD
+6260,2/20/2015,9:30 AM,Disturbance of Mood,Psych Voluntary,APD
+1175,1/16/2015,8:51 AM,Disturbance of Mood,Psych Voluntary,APD
+3163,6/10/2015,10:49 AM,Disturbance of Mood,Arrested,APD
+7152,7/2/2015,1:23 PM,Disturbance of Mood,Arrested,APD
+5153,2/17/2015,8:48 AM,Disturbance of Mood,Community-Followup,APD
+6901,1/20/2015,11:09 AM,Disturbance of Mood,Community-Followup,APD
+17896,6/19/2015,6:52 PM,Disturbance of Mood,Community-Followup,APD
+9463,5/7/2015,4:29 PM,Disturbance of Mood,Community-Followup,APD
+4139,5/16/2015,7:21 PM,Disturbance of Mood,Community-Followup,APD
+5073,5/12/2015,1:43 PM,Disturbance of Mood,Community-Followup,APD
+23021,6/5/2015,8:02 PM,Disturbance of Mood,Community-Followup,APD
+9249,4/1/2015,8:49 AM,Disturbance of Mood,Community-Followup,APD
+15642,5/16/2015,10:25 PM,Disturbance of Mood,Community-Followup,APD
+9565,9/26/2015,4:45 PM,Self Injurious Behavior,Community-Followup,APD
+5585,1/6/2015,1:31 PM,Self Injurious Behavior,Community-Followup,APD
+7603,8/1/2015,12:18 PM,Self Injurious Behavior,Community-Followup,APD
+21379,2/26/2015,3:20 PM,Self Injurious Behavior,Community-Followup,APD
+23088,8/31/2015,12:22 PM,Self Injurious Behavior,Community-Followup,APD
+4445,3/28/2015,2:19 PM,Self Injurious Behavior,Community-Followup,APD
+1174,3/8/2015,3:47 PM,Self Injurious Behavior,Community-Followup,APD
+14817,6/5/2015,12:05 PM,Suicidal Ideation,Community-Declined Service,APD
+5010,2/11/2015,9:05 AM,Suicidal Ideation,Community-Declined Service,APD
+8383,5/10/2015,7:50 AM,Suicidal Ideation,Community-Declined Service,APD
+21790,4/9/2015,9:04 AM,Suicidal Ideation,Community-Declined Service,APD
+14432,9/13/2015,1:14 PM,Suicidal Ideation,Community-Declined Service,APD
+20203,2/5/2015,7:52 AM,Psychosis,Community-Declined Service,PPD
+17093,7/24/2015,12:43 PM,Psychosis,Community-Declined Service,PPD
+1379,6/17/2015,9:18 AM,Psychosis,Community-Declined Service,PPD
+17430,3/6/2015,10:30 AM,Psychosis,Community-Declined Service,PPD
+8549,2/5/2015,8:08 PM,Psychosis,ER Involuntary,PPD
+18420,7/15/2015,5:38 PM,Psychosis,ER Involuntary,PPD
+7229,2/2/2015,10:31 PM,Substance Related,ER Involuntary,PPD
+9214,2/19/2015,2:33 PM,Substance Related,ER Involuntary,PPD
+9415,7/21/2015,8:54 PM,Substance Related,ER Involuntary,PPD
+4251,5/9/2015,12:28 PM,Substance Related,ER Voluntary,PPD
+10184,7/22/2015,6:21 PM,Substance Related,ER Voluntary,PPD
+22830,8/12/2015,10:31 AM,Substance Related,ER Voluntary,PPD
+2226,2/19/2015,7:15 AM,Substance Related,Psych Involuntary,PPD
+14725,7/25/2015,4:41 PM,Substance Related,Psych Involuntary,APD
+9378,8/28/2015,8:41 PM,Substance Related,Psych Involuntary,APD
+12991,6/5/2015,6:26 PM,Substance Related,Psych Involuntary,APD
+20879,7/28/2015,4:11 PM,Substance Related,Psych Involuntary,APD
+19331,5/10/2015,12:52 PM,Substance Related,Psych Voluntary,APD
+19887,1/6/2015,3:24 PM,Substance Related,Psych Voluntary,APD
+7647,8/17/2015,2:49 PM,Substance Related,Psych Voluntary,APD
+16591,8/29/2015,8:50 AM,Substance Related,Psych Voluntary,APD
+17939,9/29/2015,8:34 AM,Substance Related,Psych Voluntary,APD
+20345,9/10/2015,3:23 PM,Substance Related,Psych Voluntary,APD
+19295,5/12/2015,2:54 PM,Psychosis,Community-Followup,APD
+7350,7/8/2015,12:54 PM,Psychosis,Community-Followup,APD
+21370,3/8/2015,7:10 AM,Psychosis,Community-Followup,APD
+20643,3/16/2015,11:04 AM,Psychosis,Community-Followup,APD
+10332,9/9/2015,10:52 AM,Psychosis,Community-Followup,APD
+4577,7/14/2015,5:54 PM,Suicidal Ideation,Community-Followup,APD
+13697,7/22/2015,6:55 PM,Suicidal Ideation,Community-Followup,APD
+18695,3/4/2015,7:02 PM,Suicidal Ideation,Community-Followup,APD
+12239,7/6/2015,9:16 PM,Suicidal Ideation,Community-Followup,APD
+8757,4/23/2015,8:14 AM,Suicidal Ideation,Community-Followup,APD
+9534,8/3/2015,6:53 PM,Suicidal Ideation,Community-Followup,APD
+5562,6/3/2015,4:08 PM,Suicidal Ideation,Community-Followup,APD
+19212,6/20/2015,10:17 PM,Suicidal Ideation,Community-Followup,APD
+17371,5/8/2015,7:53 AM,Suicidal Ideation,Psych Involuntary,APD
+23883,2/6/2015,3:25 PM,Suicidal Ideation,Psych Involuntary,APD
+19092,9/25/2015,10:09 PM,Suicidal Ideation,Psych Voluntary,APD
+12311,5/29/2015,11:46 AM,Suicidal Ideation,Psych Voluntary,APD
+8426,6/14/2015,6:13 PM,Suicidal Ideation,Arrested,APD
+16503,2/16/2015,2:06 PM,Suicidal Ideation,Arrested,APD
+2390,3/6/2015,6:31 PM,Suicidal Ideation,Community-Followup,APD
+8474,9/21/2015,9:57 PM,Suicidal Ideation,Community-Followup,APD
+6429,6/19/2015,8:05 AM,Suicidal Ideation,Community-Followup,APD
+10077,8/6/2015,12:31 PM,Suicidal Ideation,Community-Followup,APD
+11434,8/16/2015,8:14 AM,Suicidal Ideation,Community-Followup,APD
+14183,1/23/2015,8:59 PM,Suicidal Ideation,Community-Followup,APD
+16939,2/4/2015,3:48 PM,Suicidal Ideation,Community-Followup,PPD
+4599,5/1/2015,6:23 PM,Suicidal Ideation,Community-Followup,PPD
+14248,1/30/2015,7:19 PM,Suicidal Ideation,Community-Followup,PPD
+12218,8/26/2015,10:44 AM,Suicidal Ideation,Community-Followup,PPD
+22132,7/24/2015,7:07 PM,Suicidal Ideation,Community-Followup,PPD
+17943,4/12/2015,4:00 PM,Suicidal Ideation,Community-Followup,PPD
+20336,5/22/2015,12:49 PM,Suicidal Ideation,Community-Followup,PPD
+15495,3/29/2015,10:35 PM,Suicidal Ideation,Community-Followup,PPD
+6870,3/31/2015,9:07 AM,Suicidal Ideation,Community-Followup,PPD
+14953,4/27/2015,4:40 PM,Suicidal Ideation,Community-Followup,PPD
+18214,8/27/2015,7:28 PM,Suicidal Ideation,Community-Declined Service,PPD
+20670,4/10/2015,8:44 PM,Suicidal Ideation,Community-Declined Service,PPD
+12312,7/29/2015,9:21 AM,Suicidal Ideation,Community-Declined Service,PPD
+17814,8/24/2015,3:37 PM,Suicidal Ideation,Community-Declined Service,APD
+16083,2/14/2015,10:29 AM,Disturbance of Mood,Community-Declined Service,APD
+7037,7/24/2015,8:33 AM,Disturbance of Mood,Community-Declined Service,APD
+16749,3/19/2015,10:33 PM,Disturbance of Mood,Community-Declined Service,APD
+12691,6/23/2015,4:41 PM,Suicidal Ideation,Community-Declined Service,APD
+15475,7/17/2015,7:24 AM,Suicidal Ideation,Community-Declined Service,APD
+16620,4/10/2015,9:14 PM,Suicidal Ideation,ER Involuntary,APD
+15318,3/16/2015,10:03 AM,Suicidal Ideation,ER Involuntary,APD
+17387,6/5/2015,12:38 PM,Suicidal Ideation,ER Involuntary,APD
+14428,9/19/2015,7:23 AM,Suicidal Ideation,ER Involuntary,APD
+3532,2/26/2015,7:12 PM,Suicidal Ideation,ER Involuntary,APD
+9990,3/21/2015,5:45 PM,Suicidal Ideation,ER Voluntary,APD
+7906,9/16/2015,5:53 PM,Suicidal Ideation,ER Voluntary,APD
+23725,9/25/2015,8:15 PM,Suicidal Ideation,ER Voluntary,APD
+15425,7/26/2015,9:35 AM,Suicidal Ideation,Psych Involuntary,APD
+17051,4/23/2015,3:05 PM,Suicidal Ideation,Psych Involuntary,APD
+3759,8/9/2015,3:00 PM,Suicidal Ideation,Psych Involuntary,APD
+12114,3/22/2015,12:21 PM,Suicidal Ideation,Psych Involuntary,APD
+18353,6/23/2015,3:17 PM,Suicidal Ideation,Psych Involuntary,APD
+22428,5/8/2015,7:16 PM,Suicidal Ideation,Psych Voluntary,APD
+19640,3/23/2015,9:08 PM,Suicidal Ideation,Psych Voluntary,APD
+8217,9/16/2015,12:03 PM,Suicidal Ideation,Psych Voluntary,APD
+729,2/20/2015,11:39 AM,Suicidal Ideation,Psych Voluntary,APD
+10755,6/15/2015,8:56 AM,Suicidal Ideation,Psych Voluntary,APD
+5136,5/29/2015,4:20 PM,Suicidal Ideation,Psych Voluntary,APD
+3912,7/24/2015,8:35 PM,Suicidal Ideation,Community-Followup,APD
+14213,2/17/2015,7:25 AM,Suicidal Ideation,Community-Followup,APD
+13678,3/18/2015,10:52 AM,Suicidal Ideation,Community-Followup,APD
+11657,5/2/2015,3:31 PM,Suicidal Ideation,Community-Followup,APD
+18400,7/23/2015,5:19 PM,Suicidal Ideation,Community-Followup,APD
+13341,6/23/2015,7:28 PM,Suicidal Ideation,Community-Followup,APD
+2126,7/11/2015,10:34 AM,Suicidal Ideation,Community-Followup,APD
+16476,1/8/2015,12:05 PM,Suicidal Ideation,Community-Followup,APD
+6777,3/18/2015,10:15 AM,Suicidal Ideation,Community-Followup,APD
+22066,3/28/2015,9:17 PM,Suicidal Ideation,Community-Followup,APD
+15853,2/28/2015,7:46 PM,Suicidal Ideation,Community-Followup,PPD
+22344,7/8/2015,2:07 PM,Suicidal Ideation,Community-Followup,PPD
+13444,3/21/2015,8:28 PM,Suicidal Ideation,Community-Followup,PPD
+19699,1/29/2015,5:52 PM,Suicidal Ideation,Psych Involuntary,PPD
+20666,2/16/2015,7:28 PM,Suicidal Ideation,Psych Involuntary,PPD
+8200,6/30/2015,9:35 AM,Suicidal Ideation,Psych Voluntary,PPD
+21301,7/16/2015,6:28 PM,Suicidal Ideation,Psych Voluntary,APD
+21735,8/4/2015,7:35 AM,Suicidal Ideation,Arrested,APD
+8011,4/26/2015,2:44 PM,Suicidal Ideation,Arrested,APD
+23314,5/1/2015,8:46 AM,Disturbance of Mood,Community-Followup,APD
+16505,2/21/2015,5:35 PM,Disturbance of Mood,Community-Followup,APD
+21036,3/17/2015,7:14 PM,Disturbance of Mood,Community-Followup,APD
+8846,2/16/2015,8:17 AM,Psychosis,Community-Followup,APD
+22418,5/17/2015,4:24 PM,Psychosis,Community-Followup,APD
+16539,8/26/2015,7:48 PM,Psychosis,Community-Followup,APD
+20337,1/31/2015,4:22 PM,Psychosis,Community-Followup,APD
+7943,9/20/2015,5:35 PM,Psychosis,Community-Followup,APD
+13750,3/4/2015,4:38 PM,Psychosis,Community-Followup,APD
+14983,3/18/2015,3:50 PM,Psychosis,Community-Followup,APD
+3271,8/28/2015,1:50 PM,Psychosis,Community-Followup,APD
+18726,8/20/2015,9:04 AM,Psychosis,Community-Followup,APD
+19452,8/24/2015,8:44 AM,Psychosis,Community-Followup,APD
+14786,8/13/2015,8:44 AM,Psychosis,Community-Followup,APD
+5394,8/25/2015,4:52 PM,Psychosis,Community-Followup,APD
+8585,9/2/2015,9:19 PM,Psychosis,Community-Followup,APD
+4775,4/30/2015,6:21 PM,Psychosis,Community-Declined Service,APD
+14576,8/21/2015,3:26 PM,Psychosis,Community-Declined Service,APD
+773,8/11/2015,10:50 AM,Psychosis,Community-Declined Service,APD
+2333,1/20/2015,10:27 AM,Psychosis,Community-Declined Service,APD
+23643,9/9/2015,1:35 PM,Psychosis,Community-Declined Service,APD
+2875,6/8/2015,8:55 PM,Psychosis,Community-Declined Service,APD
+8330,3/13/2015,8:34 AM,Psychosis,Community-Declined Service,APD
+12394,5/5/2015,8:51 AM,Psychosis,Community-Declined Service,APD
+14379,4/2/2015,7:27 PM,Psychosis,Community-Declined Service,APD
+10846,5/9/2015,1:20 PM,Psychosis,ER Involuntary,APD
+3767,3/22/2015,10:47 AM,Psychosis,ER Involuntary,APD
+18305,1/28/2015,9:35 AM,Psychosis,ER Involuntary,APD
+22213,2/28/2015,8:47 AM,Psychosis,ER Involuntary,APD
+21478,7/18/2015,7:14 PM,Psychosis,ER Involuntary,APD
+1344,5/8/2015,5:42 PM,Psychosis,ER Voluntary,APD
+1994,5/16/2015,10:03 AM,Psychosis,ER Voluntary,APD
+14744,8/4/2015,12:16 PM,Psychosis,ER Voluntary,PPD
+18882,8/14/2015,4:01 PM,Psychosis,Psych Involuntary,PPD
+14337,2/11/2015,8:13 PM,Psychosis,Psych Involuntary,PPD
+10691,6/18/2015,9:03 PM,Psychosis,Psych Involuntary,PPD
+17218,5/10/2015,7:11 PM,Psychosis,Psych Involuntary,PPD
+694,1/1/2015,8:50 PM,Psychosis,Psych Involuntary,PPD
+7385,2/24/2015,7:28 PM,Psychosis,Psych Voluntary,PPD
+20575,6/30/2015,10:07 AM,Psychosis,Psych Voluntary,PPD
+15955,9/18/2015,3:36 PM,Psychosis,Psych Voluntary,PPD
+13102,4/1/2015,6:35 PM,Psychosis,Psych Voluntary,PPD
+19696,3/10/2015,10:20 AM,Suicidal Ideation,Psych Voluntary,PPD
+21831,9/7/2015,7:46 AM,Suicidal Ideation,Psych Voluntary,PPD
+3270,6/13/2015,2:39 PM,Suicidal Ideation,Community-Followup,PPD
+18114,7/1/2015,7:35 AM,Suicidal Ideation,Community-Followup,APD
+17831,4/14/2015,4:16 PM,Suicidal Ideation,Community-Followup,APD
+3263,4/12/2015,9:03 AM,Suicidal Ideation,Community-Followup,APD
+18785,4/17/2015,6:41 PM,Suicidal Ideation,Community-Followup,APD
+20402,5/4/2015,4:13 PM,Suicidal Ideation,Community-Followup,APD
+10618,3/12/2015,9:52 PM,Suicidal Ideation,Community-Followup,APD
+12328,5/18/2015,7:20 PM,Suicidal Ideation,Community-Followup,APD
+9158,7/30/2015,7:56 AM,Suicidal Ideation,Community-Followup,APD
+21238,7/19/2015,10:16 AM,Suicidal Ideation,Community-Followup,APD
+23288,4/12/2015,1:21 PM,Suicidal Ideation,Community-Followup,APD
+20651,8/9/2015,8:23 AM,Suicidal Ideation,Arrested,APD
+7125,8/24/2015,4:08 PM,Suicidal Ideation,Arrested,APD
+16662,2/14/2015,5:55 PM,Suicidal Ideation,Community-Followup,APD
+16905,8/19/2015,8:59 AM,Suicidal Ideation,Community-Followup,APD
+16691,1/26/2015,7:58 PM,Suicidal Ideation,Community-Followup,APD
+17424,5/12/2015,5:07 PM,Suicidal Ideation,Community-Followup,APD
+10606,6/18/2015,3:57 PM,Suicidal Ideation,Community-Followup,APD
+5514,2/6/2015,3:47 PM,Suicidal Ideation,Community-Followup,APD
+22586,4/14/2015,4:12 PM,Suicidal Ideation,Community-Followup,APD
+5440,5/19/2015,7:23 AM,Suicidal Ideation,Community-Followup,APD
+14425,6/12/2015,9:28 AM,Suicidal Ideation,Community-Followup,APD
+18018,3/15/2015,11:14 AM,Suicidal Ideation,Community-Followup,APD
+16922,1/2/2015,8:13 PM,Suicidal Ideation,Community-Followup,APD
+8313,6/4/2015,8:37 PM,Suicidal Ideation,Community-Followup,APD
+3775,2/12/2015,7:53 PM,Suicidal Ideation,Community-Followup,APD
+20807,3/14/2015,7:21 AM,Suicidal Ideation,Community-Followup,APD
+17596,4/14/2015,9:28 PM,Suicidal Ideation,Community-Followup,APD
+18688,3/28/2015,10:54 AM,Suicidal Ideation,Community-Followup,APD
+15462,9/11/2015,7:30 PM,Suicidal Ideation,Community-Declined Service,APD
+12408,3/8/2015,4:22 PM,Suicidal Ideation,Community-Declined Service,APD
+8224,2/24/2015,6:02 PM,Suicidal Ideation,Community-Declined Service,APD
+2811,7/19/2015,2:13 PM,Suicidal Ideation,Community-Declined Service,APD
+19475,7/3/2015,10:16 PM,Suicidal Ideation,Community-Declined Service,APD
+3841,6/3/2015,8:38 AM,Suicidal Ideation,Community-Declined Service,APD
+17038,2/15/2015,11:33 AM,Suicidal Ideation,Community-Declined Service,APD
+911,1/16/2015,5:48 PM,Suicidal Ideation,Community-Declined Service,PPD
+4583,8/12/2015,10:14 PM,Suicidal Ideation,Community-Declined Service,PPD
+19101,9/25/2015,8:28 AM,Suicidal Ideation,ER Involuntary,PPD
+13922,9/26/2015,1:36 PM,Disturbance of Mood,ER Involuntary,PPD
+3748,5/21/2015,10:40 PM,Disturbance of Mood,ER Involuntary,PPD
+7455,4/21/2015,9:24 PM,Disturbance of Mood,ER Involuntary,PPD
+6961,5/15/2015,7:02 AM,Disturbance of Mood,ER Involuntary,PPD
+23018,3/2/2015,10:59 AM,Disturbance of Mood,ER Voluntary,PPD
+5528,2/10/2015,1:18 PM,Disturbance of Mood,ER Voluntary,PPD
+11379,7/14/2015,7:23 AM,Disturbance of Mood,ER Voluntary,PPD
+1597,6/22/2015,7:26 PM,Disturbance of Mood,Psych Involuntary,PPD
+20022,3/15/2015,1:42 PM,Disturbance of Mood,Psych Involuntary,PPD
+21171,6/18/2015,1:57 PM,Disturbance of Mood,Psych Involuntary,PPD
+14196,3/3/2015,1:56 PM,Disturbance of Mood,Psych Involuntary,APD
+23093,1/14/2015,9:39 PM,Disturbance of Mood,Psych Involuntary,APD
+1738,3/21/2015,9:13 PM,Disturbance of Mood,Psych Voluntary,APD
+6188,9/23/2015,5:58 PM,Self Injurious Behavior,Psych Voluntary,APD
+10694,4/30/2015,8:24 PM,Self Injurious Behavior,Psych Voluntary,APD
+11542,5/11/2015,4:34 PM,Self Injurious Behavior,Psych Voluntary,APD
+7158,8/9/2015,4:21 PM,Self Injurious Behavior,Psych Voluntary,APD
+19852,3/27/2015,2:24 PM,Self Injurious Behavior,Psych Voluntary,APD
+10508,2/25/2015,6:18 PM,Self Injurious Behavior,Community-Followup,APD
+6380,9/18/2015,4:04 PM,Self Injurious Behavior,Community-Followup,APD
+18375,7/18/2015,3:42 PM,Suicidal Ideation,Community-Followup,APD
+10039,4/29/2015,7:49 PM,Suicidal Ideation,Community-Followup,APD
+18744,4/8/2015,2:49 PM,Suicidal Ideation,Community-Followup,APD
+5682,4/1/2015,3:10 PM,Suicidal Ideation,Community-Followup,APD
+4838,8/10/2015,4:18 PM,Suicidal Ideation,Community-Followup,APD
+2322,1/10/2015,2:15 PM,Psychosis,Community-Followup,APD
+13672,3/24/2015,12:41 PM,Psychosis,Community-Followup,APD
+12313,8/13/2015,3:57 PM,Psychosis,Community-Followup,APD
+9967,5/12/2015,9:53 AM,Psychosis,Community-Followup,APD
+3325,4/3/2015,8:16 PM,Psychosis,Community-Followup,APD
+9798,6/22/2015,6:57 PM,Psychosis,Community-Followup,APD
+21237,5/4/2015,3:32 PM,Substance Related,Psych Involuntary,APD
+1056,3/4/2015,12:59 PM,Substance Related,Psych Involuntary,APD
+23004,8/13/2015,9:45 AM,Substance Related,Psych Voluntary,APD
+12962,8/31/2015,4:40 PM,Substance Related,Arrested,APD
+10057,1/6/2015,1:56 PM,Substance Related,Arrested,APD
+19558,6/15/2015,7:03 AM,Substance Related,Community-Followup,APD
+23006,3/10/2015,4:19 PM,Substance Related,Community-Followup,APD
+18390,5/31/2015,10:41 AM,Substance Related,Community-Followup,APD
+11770,5/22/2015,12:20 PM,Substance Related,Community-Followup,APD
+6807,1/9/2015,10:11 AM,Substance Related,Community-Followup,APD
+1938,3/30/2015,9:14 PM,Substance Related,Community-Followup,APD
+14535,7/14/2015,9:20 AM,Substance Related,Community-Followup,APD
+3278,5/6/2015,9:10 AM,Substance Related,Community-Followup,APD
+7797,2/7/2015,8:31 PM,Substance Related,Community-Followup,APD
+12722,3/2/2015,11:09 AM,Substance Related,Community-Followup,PPD
+22048,6/11/2015,7:14 PM,Substance Related,Community-Followup,PPD
+22129,9/16/2015,5:55 PM,Substance Related,Community-Followup,PPD
+4423,8/3/2015,4:12 PM,Psychosis,Community-Followup,PPD
+14461,6/8/2015,1:04 PM,Psychosis,Community-Followup,PPD
+8374,6/27/2015,9:13 PM,Psychosis,Community-Followup,PPD
+12858,1/15/2015,4:48 PM,Psychosis,Community-Followup,PPD
+21310,2/8/2015,6:26 PM,Psychosis,Community-Declined Service,PPD
+15698,4/4/2015,4:14 PM,Suicidal Ideation,Community-Declined Service,PPD
+8885,3/3/2015,5:17 PM,Suicidal Ideation,Community-Declined Service,PPD
+17358,6/15/2015,11:02 AM,Suicidal Ideation,Community-Declined Service,PPD
+1808,5/24/2015,11:04 AM,Suicidal Ideation,Community-Declined Service,PPD
+18135,3/22/2015,3:03 PM,Suicidal Ideation,Community-Declined Service,PPD
+2945,6/20/2015,1:52 PM,Suicidal Ideation,Community-Declined Service,APD
+8029,2/2/2015,8:38 PM,Suicidal Ideation,Community-Declined Service,APD
+12319,3/1/2015,8:26 AM,Suicidal Ideation,Community-Declined Service,APD
+18425,4/17/2015,4:10 PM,Suicidal Ideation,ER Involuntary,APD
+22777,2/25/2015,5:16 PM,Suicidal Ideation,ER Involuntary,APD
+11517,1/12/2015,3:24 PM,Suicidal Ideation,ER Involuntary,APD
+22795,3/3/2015,2:04 PM,Suicidal Ideation,ER Involuntary,APD
+16992,6/7/2015,1:28 PM,Suicidal Ideation,ER Involuntary,APD
+5155,6/4/2015,7:07 AM,Suicidal Ideation,ER Voluntary,APD
+14873,2/17/2015,8:35 AM,Suicidal Ideation,ER Voluntary,APD
+17330,6/4/2015,9:54 PM,Suicidal Ideation,ER Voluntary,APD
+22209,5/5/2015,4:23 PM,Suicidal Ideation,Psych Involuntary,APD
+6566,1/17/2015,5:41 PM,Suicidal Ideation,Psych Involuntary,APD
+22978,9/12/2015,9:38 AM,Suicidal Ideation,Psych Involuntary,APD
+3280,1/19/2015,10:27 AM,Suicidal Ideation,Psych Involuntary,APD
+4433,9/10/2015,6:16 PM,Suicidal Ideation,Psych Involuntary,APD
+21478,5/22/2015,9:44 PM,Suicidal Ideation,Psych Voluntary,APD
+15593,2/13/2015,7:20 AM,Suicidal Ideation,Psych Voluntary,APD
+1461,8/3/2015,12:10 PM,Suicidal Ideation,Psych Voluntary,APD
+22520,8/8/2015,11:00 AM,Suicidal Ideation,Psych Voluntary,APD
+17853,3/6/2015,12:43 PM,Suicidal Ideation,Psych Voluntary,APD
+18699,5/27/2015,1:09 PM,Suicidal Ideation,Psych Voluntary,APD
+9238,7/24/2015,1:58 PM,Suicidal Ideation,Community-Followup,APD
+6948,3/30/2015,12:46 PM,Suicidal Ideation,Community-Followup,APD
+23586,4/16/2015,8:37 PM,Suicidal Ideation,Community-Followup,APD
+9562,9/4/2015,8:02 AM,Suicidal Ideation,Community-Followup,APD
+4447,7/15/2015,7:46 PM,Suicidal Ideation,Community-Followup,APD
+10055,5/23/2015,8:17 PM,Suicidal Ideation,Community-Followup,APD
+8789,2/7/2015,8:31 PM,Suicidal Ideation,Community-Followup,APD
+7742,2/24/2015,9:24 PM,Disturbance of Mood,Community-Followup,APD
+14595,3/19/2015,9:33 AM,Disturbance of Mood,Community-Followup,APD
+6504,7/1/2015,7:43 PM,Disturbance of Mood,Community-Followup,APD
+9706,8/23/2015,9:05 AM,Suicidal Ideation,Community-Followup,APD
+5255,9/28/2015,7:06 AM,Psychosis,Arrested,APD
+22004,6/21/2015,6:43 PM,Psychosis,Arrested,APD
+4757,6/2/2015,1:35 PM,Psychosis,Community-Followup,APD
+7498,6/10/2015,8:42 AM,Psychosis,Community-Followup,APD
+5889,7/25/2015,1:22 PM,Psychosis,Community-Followup,APD
+765,3/19/2015,5:29 PM,Psychosis,Community-Followup,APD
+481,5/27/2015,10:39 AM,Psychosis,Community-Followup,APD
+21669,2/12/2015,12:19 PM,Psychosis,Community-Followup,APD
+13019,9/17/2015,2:43 PM,Psychosis,Community-Followup,APD
+5628,4/13/2015,10:02 AM,Psychosis,Community-Followup,APD
+6604,1/25/2015,6:36 PM,Psychosis,Community-Followup,APD
+21382,7/31/2015,9:05 AM,Psychosis,Community-Followup,APD
+22831,6/29/2015,8:14 AM,Psychosis,Community-Followup,APD
+16987,5/16/2015,8:26 AM,Psychosis,Community-Followup,APD
+10289,7/22/2015,6:21 PM,Psychosis,Community-Followup,APD
+11762,2/13/2015,11:56 AM,Psychosis,Community-Followup,APD
+14181,9/10/2015,9:15 AM,Psychosis,Community-Followup,APD
+23051,2/1/2015,8:00 PM,Psychosis,Community-Followup,APD
+10489,8/3/2015,2:45 PM,Psychosis,Community-Declined Service,APD
+15903,5/22/2015,8:05 PM,Psychosis,Community-Declined Service,APD
+10687,4/29/2015,5:50 PM,Psychosis,Community-Declined Service,APD
+11844,7/12/2015,12:38 PM,Psychosis,Community-Declined Service,APD
+11393,8/18/2015,8:49 PM,Psychosis,Community-Declined Service,APD
+2688,2/25/2015,3:41 PM,Psychosis,Community-Declined Service,APD
+20154,9/9/2015,8:36 PM,Psychosis,Community-Declined Service,APD
+20155,8/15/2015,12:09 PM,Psychosis,Community-Declined Service,APD
+18362,3/10/2015,3:44 PM,Psychosis,Community-Declined Service,APD
+15647,1/5/2015,2:35 PM,Psychosis,ER Involuntary,APD
+16800,4/8/2015,1:32 PM,Psychosis,ER Involuntary,APD
+22233,5/29/2015,5:08 PM,Psychosis,ER Involuntary,APD
+3987,1/8/2015,7:49 PM,Psychosis,ER Involuntary,APD
+22904,8/18/2015,8:52 AM,Psychosis,ER Involuntary,APD
+17416,8/28/2015,11:25 AM,Psychosis,ER Voluntary,APD
+21181,6/23/2015,8:42 AM,Psychosis,ER Voluntary,APD
+18746,4/1/2015,9:53 PM,Psychosis,ER Voluntary,APD
+4589,8/21/2015,3:48 PM,Psychosis,Psych Involuntary,PPD
+12961,4/10/2015,7:01 PM,Psychosis,Psych Involuntary,PPD
+9118,8/21/2015,9:03 PM,Psychosis,Psych Involuntary,PPD
+8329,7/2/2015,11:23 AM,Psychosis,Psych Involuntary,PPD
+15567,5/31/2015,3:07 PM,Suicidal Ideation,Psych Involuntary,PPD
+13755,9/21/2015,4:06 PM,Suicidal Ideation,Psych Voluntary,PPD
+13308,6/28/2015,3:32 PM,Suicidal Ideation,Psych Voluntary,PPD
+10505,3/28/2015,7:10 PM,Suicidal Ideation,Psych Voluntary,PPD
+11883,7/18/2015,9:30 PM,Suicidal Ideation,Psych Voluntary,PPD
+22867,9/1/2015,11:34 AM,Suicidal Ideation,Psych Voluntary,PPD
+2876,8/26/2015,9:13 AM,Suicidal Ideation,Psych Voluntary,PPD
+14023,4/24/2015,7:32 AM,Suicidal Ideation,Community-Followup,PPD
+5777,3/1/2015,8:28 PM,Suicidal Ideation,Community-Followup,PPD
+14226,3/22/2015,8:14 AM,Suicidal Ideation,Community-Followup,APD
+20044,2/24/2015,3:42 PM,Suicidal Ideation,Community-Followup,APD
+23656,2/27/2015,6:52 PM,Suicidal Ideation,Community-Followup,APD
+13209,6/23/2015,7:59 AM,Suicidal Ideation,Community-Followup,APD
+11827,7/18/2015,12:06 PM,Suicidal Ideation,Community-Followup,APD
+10892,5/2/2015,7:05 AM,Suicidal Ideation,Community-Followup,APD
+11353,9/5/2015,9:03 PM,Suicidal Ideation,Community-Followup,APD
+18301,8/27/2015,10:46 AM,Suicidal Ideation,Community-Followup,APD
+18026,6/16/2015,8:01 AM,Suicidal Ideation,Community-Followup,APD
+1724,4/16/2015,11:31 AM,Suicidal Ideation,Community-Followup,APD
+16244,5/9/2015,8:30 AM,Suicidal Ideation,Community-Followup,APD
+2272,8/15/2015,8:55 PM,Suicidal Ideation,Psych Involuntary,APD
+21849,4/25/2015,6:07 PM,Suicidal Ideation,Psych Involuntary,APD
+14775,3/13/2015,7:21 AM,Suicidal Ideation,Psych Voluntary,APD
+6980,7/20/2015,8:32 AM,Suicidal Ideation,Psych Voluntary,APD
+19931,3/8/2015,3:36 PM,Suicidal Ideation,Arrested,APD
+14753,3/9/2015,8:31 PM,Suicidal Ideation,Arrested,APD
+6373,7/29/2015,11:29 AM,Suicidal Ideation,Community-Followup,APD
+11723,8/8/2015,1:54 PM,Suicidal Ideation,Community-Followup,APD
+7520,2/26/2015,7:56 PM,Suicidal Ideation,Community-Followup,APD
+15859,9/9/2015,7:03 AM,Suicidal Ideation,Community-Followup,APD
+18012,2/18/2015,2:39 PM,Suicidal Ideation,Community-Followup,APD
+23559,6/26/2015,7:13 PM,Suicidal Ideation,Community-Followup,APD
+11896,7/10/2015,8:22 PM,Suicidal Ideation,Community-Followup,APD
+17459,3/22/2015,10:03 PM,Suicidal Ideation,Community-Followup,APD
+7515,8/19/2015,10:09 AM,Suicidal Ideation,Community-Followup,APD
+2943,2/17/2015,8:45 PM,Suicidal Ideation,Community-Followup,APD
+19391,6/14/2015,3:18 PM,Suicidal Ideation,Community-Followup,APD
+21170,7/19/2015,6:16 PM,Suicidal Ideation,Community-Followup,APD
+471,3/20/2015,9:30 PM,Suicidal Ideation,Community-Followup,APD
+1045,5/24/2015,8:06 PM,Suicidal Ideation,Community-Followup,APD
+9475,6/23/2015,9:12 PM,Suicidal Ideation,Community-Followup,APD
+2955,6/24/2015,2:46 PM,Disturbance of Mood,Community-Followup,APD
+15181,8/10/2015,10:03 PM,Disturbance of Mood,Community-Declined Service,APD
+18929,3/6/2015,3:30 PM,Disturbance of Mood,Community-Declined Service,APD
+12535,9/29/2015,5:11 PM,Disturbance of Mood,Community-Declined Service,PPD
+14477,4/13/2015,11:08 AM,Disturbance of Mood,Community-Declined Service,PPD
+3698,4/29/2015,6:08 PM,Disturbance of Mood,Community-Declined Service,PPD
+19636,7/15/2015,10:36 PM,Disturbance of Mood,Community-Declined Service,PPD
+5526,5/22/2015,9:07 AM,Disturbance of Mood,Community-Declined Service,PPD
+15455,9/26/2015,2:10 PM,Disturbance of Mood,Community-Declined Service,PPD
+3228,3/14/2015,3:12 PM,Disturbance of Mood,Community-Declined Service,PPD
+15435,8/18/2015,11:46 AM,Disturbance of Mood,ER Involuntary,PPD
+8159,1/31/2015,9:41 PM,Disturbance of Mood,ER Involuntary,PPD
+11292,6/11/2015,5:51 PM,Disturbance of Mood,ER Involuntary,PPD
+5961,9/15/2015,12:53 PM,Self Injurious Behavior,ER Involuntary,PPD
+13498,6/5/2015,10:38 PM,Self Injurious Behavior,ER Involuntary,PPD
+16966,4/23/2015,9:44 AM,Self Injurious Behavior,ER Voluntary,PPD
+14622,1/6/2015,1:59 PM,Self Injurious Behavior,ER Voluntary,APD
+21548,5/22/2015,10:22 PM,Self Injurious Behavior,ER Voluntary,APD
+8335,4/4/2015,1:28 PM,Self Injurious Behavior,Psych Involuntary,APD
+8264,3/2/2015,12:19 PM,Self Injurious Behavior,Psych Involuntary,APD
+20891,2/23/2015,12:23 PM,Suicidal Ideation,Psych Involuntary,APD
+14186,2/20/2015,10:14 PM,Suicidal Ideation,Psych Involuntary,APD
+14916,4/24/2015,1:08 PM,Suicidal Ideation,Psych Involuntary,APD
+19926,5/26/2015,9:07 AM,Suicidal Ideation,Psych Voluntary,APD
+12832,4/21/2015,4:51 PM,Suicidal Ideation,Psych Voluntary,APD
+15518,1/4/2015,4:50 PM,Psychosis,Psych Voluntary,APD
+7909,8/29/2015,1:02 PM,Psychosis,Psych Voluntary,APD
+21410,8/7/2015,2:30 PM,Psychosis,Psych Voluntary,APD
+23559,7/1/2015,7:07 AM,Psychosis,Psych Voluntary,APD
+19495,5/22/2015,3:30 PM,Psychosis,Community-Followup,APD
+23291,6/9/2015,5:18 PM,Psychosis,Community-Followup,APD
+20766,8/17/2015,8:00 PM,Substance Related,Community-Followup,APD
+10177,7/2/2015,6:30 PM,Substance Related,Community-Followup,APD
+16890,6/13/2015,10:29 PM,Substance Related,Community-Followup,APD
+22763,9/21/2015,10:35 AM,Substance Related,Community-Followup,APD
+17404,1/24/2015,7:24 PM,Substance Related,Community-Followup,APD
+1827,5/22/2015,8:19 PM,Substance Related,Community-Followup,APD
+19048,4/29/2015,5:03 PM,Substance Related,Community-Followup,APD
+15299,6/4/2015,3:54 PM,Substance Related,Community-Followup,APD
+13652,6/28/2015,8:39 PM,Substance Related,Community-Followup,APD
+21666,6/29/2015,9:40 PM,Substance Related,Community-Followup,APD
+18564,2/1/2015,9:41 PM,Substance Related,Community-Followup,APD
+4575,7/17/2015,8:48 PM,Substance Related,Psych Involuntary,APD
+18339,7/15/2015,11:12 AM,Substance Related,Psych Involuntary,APD
+12183,9/5/2015,9:15 PM,Substance Related,Psych Voluntary,APD
+4667,6/22/2015,8:53 PM,Substance Related,Psych Voluntary,APD
+11346,2/21/2015,8:13 PM,Substance Related,Arrested,APD
+7764,2/17/2015,4:29 PM,Substance Related,Arrested,APD
+3230,5/16/2015,5:59 PM,Psychosis,Community-Followup,APD
+6534,4/29/2015,6:25 PM,Psychosis,Community-Followup,APD
+9672,2/14/2015,9:15 AM,Psychosis,Community-Followup,APD
+7296,9/18/2015,2:37 PM,Psychosis,Community-Followup,PPD
+327,6/25/2015,9:44 PM,Psychosis,Community-Followup,PPD
+4299,4/27/2015,9:22 PM,Suicidal Ideation,Community-Followup,PPD
+10366,6/17/2015,7:00 PM,Suicidal Ideation,Community-Followup,PPD
+5337,5/2/2015,5:47 PM,Suicidal Ideation,Community-Followup,PPD
+6173,1/12/2015,8:01 AM,Suicidal Ideation,Community-Followup,PPD
+6969,2/24/2015,11:41 AM,Suicidal Ideation,Community-Followup,PPD
+22270,2/3/2015,5:36 PM,Suicidal Ideation,Community-Followup,PPD
+6600,7/10/2015,9:33 PM,Suicidal Ideation,Community-Followup,PPD
+4423,8/24/2015,2:01 PM,Suicidal Ideation,Community-Followup,PPD
+20795,7/23/2015,7:14 PM,Suicidal Ideation,Community-Followup,PPD
+14462,5/3/2015,7:57 PM,Suicidal Ideation,Community-Followup,PPD
+18405,9/4/2015,2:38 PM,Suicidal Ideation,Community-Followup,PPD
+5610,6/1/2015,1:01 PM,Suicidal Ideation,Community-Declined Service,APD
+17809,8/11/2015,2:54 PM,Suicidal Ideation,Community-Declined Service,APD
+5993,7/1/2015,10:38 PM,Suicidal Ideation,Community-Declined Service,APD
+10999,8/6/2015,10:24 PM,Suicidal Ideation,Community-Declined Service,APD
+9475,2/27/2015,7:47 PM,Suicidal Ideation,Community-Declined Service,APD
+6038,7/18/2015,9:09 AM,Suicidal Ideation,Community-Declined Service,APD
+1152,6/14/2015,12:12 PM,Suicidal Ideation,Community-Declined Service,APD
+19649,9/15/2015,2:22 PM,Suicidal Ideation,Community-Declined Service,APD
+18539,5/1/2015,10:04 AM,Suicidal Ideation,Community-Declined Service,APD
+16590,4/10/2015,12:29 PM,Suicidal Ideation,ER Involuntary,APD
+23131,2/6/2015,9:37 AM,Suicidal Ideation,ER Involuntary,APD
+4193,5/1/2015,8:58 AM,Suicidal Ideation,ER Involuntary,APD
+7983,4/29/2015,12:01 PM,Suicidal Ideation,ER Involuntary,APD
+15929,9/15/2015,1:17 PM,Suicidal Ideation,ER Involuntary,APD
+18222,8/17/2015,11:47 AM,Suicidal Ideation,ER Voluntary,APD
+8899,3/31/2015,8:35 AM,Suicidal Ideation,ER Voluntary,APD
+19673,7/12/2015,1:58 PM,Suicidal Ideation,ER Voluntary,APD
+4344,8/27/2015,8:04 AM,Suicidal Ideation,Psych Involuntary,APD
+23843,2/15/2015,11:02 AM,Suicidal Ideation,Psych Involuntary,APD
+22565,5/14/2015,11:32 AM,Suicidal Ideation,Psych Involuntary,APD
+20636,1/21/2015,9:04 AM,Suicidal Ideation,Psych Involuntary,APD
+855,6/7/2015,11:40 AM,Suicidal Ideation,Psych Involuntary,APD
+646,3/4/2015,7:05 AM,Suicidal Ideation,Psych Voluntary,APD
+22690,1/19/2015,1:34 PM,Disturbance of Mood,Psych Voluntary,APD
+10603,4/17/2015,7:10 AM,Disturbance of Mood,Psych Voluntary,APD
+11456,8/5/2015,7:04 AM,Disturbance of Mood,Psych Voluntary,APD
+2644,9/9/2015,2:37 PM,Psychosis,Psych Voluntary,APD
+21598,8/2/2015,1:25 PM,Psychosis,Psych Voluntary,APD
+419,5/7/2015,2:35 PM,Psychosis,Community-Followup,APD
+12735,2/7/2015,1:44 PM,Psychosis,Community-Followup,APD
+5320,1/28/2015,8:24 AM,Psychosis,Community-Followup,APD
+1040,3/22/2015,9:32 AM,Psychosis,Community-Followup,APD
+17853,1/31/2015,10:43 AM,Psychosis,Community-Followup,APD
+3601,7/18/2015,7:38 AM,Psychosis,Community-Followup,APD
+22179,3/5/2015,9:10 AM,Psychosis,Community-Followup,APD
+14549,8/15/2015,7:01 PM,Psychosis,Community-Followup,PPD
+3313,6/21/2015,9:05 PM,Psychosis,Community-Followup,PPD
+15216,3/4/2015,8:34 PM,Psychosis,Community-Followup,PPD
+19722,7/9/2015,8:55 PM,Psychosis,Community-Followup,PPD
+1688,4/17/2015,10:52 AM,Psychosis,Community-Followup,PPD
+7569,6/11/2015,9:23 AM,Psychosis,Community-Followup,PPD
+3087,7/1/2015,7:05 PM,Psychosis,Psych Involuntary,PPD
+18011,9/23/2015,9:26 AM,Psychosis,Psych Involuntary,PPD
+3225,5/20/2015,6:46 PM,Psychosis,Psych Voluntary,PPD
+2720,8/14/2015,10:41 PM,Psychosis,Psych Voluntary,PPD
+16467,1/20/2015,8:21 PM,Psychosis,Arrested,PPD
+1269,5/13/2015,9:58 PM,Psychosis,Arrested,PPD
+17719,9/17/2015,7:46 AM,Psychosis,Community-Followup,PPD
+18035,9/20/2015,7:16 PM,Psychosis,Community-Followup,APD
+21958,1/18/2015,10:40 AM,Psychosis,Community-Followup,APD
+1236,5/21/2015,8:17 AM,Psychosis,Community-Followup,APD
+17251,6/29/2015,7:04 AM,Psychosis,Community-Followup,APD
+5410,3/28/2015,11:41 AM,Psychosis,Community-Followup,APD
+9831,2/5/2015,6:49 PM,Psychosis,Community-Followup,APD
+3965,2/20/2015,7:30 PM,Psychosis,Community-Followup,APD
+3654,9/22/2015,1:45 PM,Psychosis,Community-Followup,APD
+19257,8/30/2015,5:35 PM,Psychosis,Community-Followup,APD
+2252,3/3/2015,8:26 AM,Psychosis,Community-Followup,APD
+3798,4/15/2015,6:10 PM,Psychosis,Community-Followup,APD
+4721,9/1/2015,7:32 AM,Psychosis,Community-Followup,APD
+16288,7/7/2015,4:10 PM,Psychosis,Community-Followup,APD
+3343,9/24/2015,9:09 AM,Psychosis,Community-Followup,APD
+11108,1/4/2015,3:58 PM,Psychosis,Community-Followup,APD
+22575,1/23/2015,11:35 AM,Psychosis,Community-Declined Service,APD
+23294,4/29/2015,7:08 PM,Psychosis,Community-Declined Service,APD
+3046,7/7/2015,9:32 PM,Suicidal Ideation,Community-Declined Service,APD
+6272,8/2/2015,6:06 PM,Suicidal Ideation,Community-Declined Service,APD
+11261,2/12/2015,9:52 AM,Suicidal Ideation,Community-Declined Service,APD
+15976,2/14/2015,9:17 AM,Suicidal Ideation,Community-Declined Service,APD
+17603,5/25/2015,10:13 AM,Suicidal Ideation,Community-Declined Service,APD
+8172,5/5/2015,10:51 AM,Suicidal Ideation,Community-Declined Service,APD
+11720,3/11/2015,4:20 PM,Suicidal Ideation,Community-Declined Service,APD
+22179,5/12/2015,7:01 AM,Suicidal Ideation,ER Involuntary,APD
+17185,5/2/2015,10:34 PM,Suicidal Ideation,ER Involuntary,APD
+5135,8/26/2015,1:46 PM,Suicidal Ideation,ER Involuntary,APD
+5577,9/24/2015,1:39 PM,Suicidal Ideation,ER Involuntary,APD
+12838,7/13/2015,7:42 PM,Suicidal Ideation,ER Involuntary,APD
+11427,2/3/2015,12:44 PM,Suicidal Ideation,ER Voluntary,APD
+23723,6/17/2015,8:11 AM,Suicidal Ideation,ER Voluntary,APD
+6255,1/3/2015,12:22 PM,Suicidal Ideation,ER Voluntary,APD
+17065,9/9/2015,9:46 PM,Suicidal Ideation,Psych Involuntary,APD
+8317,5/26/2015,4:04 PM,Suicidal Ideation,Psych Involuntary,APD
+15509,8/18/2015,4:33 PM,Suicidal Ideation,Psych Involuntary,APD
+8148,1/28/2015,2:14 PM,Suicidal Ideation,Psych Involuntary,PPD
+17814,5/13/2015,9:38 PM,Suicidal Ideation,Psych Involuntary,PPD
+15783,2/27/2015,12:13 PM,Suicidal Ideation,Psych Voluntary,PPD
+4880,2/5/2015,7:16 PM,Suicidal Ideation,Psych Voluntary,PPD
+22733,8/20/2015,4:03 PM,Suicidal Ideation,Psych Voluntary,PPD
+12869,9/22/2015,11:57 AM,Suicidal Ideation,Psych Voluntary,PPD
+12556,8/16/2015,9:00 AM,Suicidal Ideation,Psych Voluntary,PPD
+10730,3/16/2015,1:22 PM,Suicidal Ideation,Psych Voluntary,PPD
+4391,1/26/2015,9:14 AM,Suicidal Ideation,Community-Followup,PPD
+18208,4/29/2015,8:36 PM,Suicidal Ideation,Community-Followup,PPD
+2279,6/9/2015,5:55 PM,Suicidal Ideation,Community-Followup,PPD
+1886,8/26/2015,10:37 PM,Suicidal Ideation,Community-Followup,PPD
+9345,1/11/2015,6:24 PM,Suicidal Ideation,Community-Followup,PPD
+17703,4/14/2015,2:12 PM,Suicidal Ideation,Community-Followup,APD
+21919,3/3/2015,10:24 AM,Suicidal Ideation,Community-Followup,APD
+7430,7/13/2015,8:55 AM,Suicidal Ideation,Community-Followup,APD
+11801,8/11/2015,11:36 AM,Suicidal Ideation,Community-Followup,APD
+21772,8/28/2015,4:33 PM,Suicidal Ideation,Community-Followup,APD
+3493,5/10/2015,5:13 PM,Suicidal Ideation,Community-Followup,APD
+3477,7/7/2015,3:58 PM,Suicidal Ideation,Community-Followup,APD
+20576,2/26/2015,2:17 PM,Suicidal Ideation,Community-Followup,APD
+2329,3/17/2015,8:36 PM,Suicidal Ideation,Psych Involuntary,APD
+11638,5/12/2015,9:49 PM,Suicidal Ideation,Psych Involuntary,APD
+6260,2/20/2015,9:30 AM,Disturbance of Mood,Psych Voluntary,APD
+1175,1/16/2015,8:51 AM,Disturbance of Mood,Psych Voluntary,APD
+3163,6/10/2015,10:49 AM,Disturbance of Mood,Arrested,APD
+7152,7/2/2015,1:23 PM,Disturbance of Mood,Arrested,APD
+5153,2/17/2015,8:48 AM,Disturbance of Mood,Community-Followup,APD
+6901,1/20/2015,11:09 AM,Disturbance of Mood,Community-Followup,APD
+17896,6/19/2015,6:52 PM,Disturbance of Mood,Community-Followup,APD
+9463,5/7/2015,4:29 PM,Disturbance of Mood,Community-Followup,APD
+4139,5/16/2015,7:21 PM,Disturbance of Mood,Community-Followup,APD
+5073,5/12/2015,1:43 PM,Disturbance of Mood,Community-Followup,APD
+23021,6/5/2015,8:02 PM,Disturbance of Mood,Community-Followup,APD
+9249,4/1/2015,8:49 AM,Disturbance of Mood,Community-Followup,APD
+15642,5/16/2015,10:25 PM,Disturbance of Mood,Community-Followup,APD
+9565,9/26/2015,4:45 PM,Self Injurious Behavior,Community-Followup,APD
+5585,1/6/2015,1:31 PM,Self Injurious Behavior,Community-Followup,APD
+7603,8/1/2015,12:18 PM,Self Injurious Behavior,Community-Followup,APD
+21379,2/26/2015,3:20 PM,Self Injurious Behavior,Community-Followup,APD
+23088,8/31/2015,12:22 PM,Self Injurious Behavior,Community-Followup,APD
+4445,3/28/2015,2:19 PM,Self Injurious Behavior,Community-Followup,APD
+1174,3/8/2015,3:47 PM,Self Injurious Behavior,Community-Followup,APD
+14817,6/5/2015,12:05 PM,Suicidal Ideation,Community-Declined Service,APD
+5010,2/11/2015,9:05 AM,Suicidal Ideation,Community-Declined Service,APD
+8383,5/10/2015,7:50 AM,Suicidal Ideation,Community-Declined Service,APD
+21790,4/9/2015,9:04 AM,Suicidal Ideation,Community-Declined Service,APD
+14432,9/13/2015,1:14 PM,Suicidal Ideation,Community-Declined Service,APD
+20203,2/5/2015,7:52 AM,Psychosis,Community-Declined Service,PPD
+17093,7/24/2015,12:43 PM,Psychosis,Community-Declined Service,PPD
+1379,6/17/2015,9:18 AM,Psychosis,Community-Declined Service,PPD
+17430,3/6/2015,10:30 AM,Psychosis,Community-Declined Service,PPD
+8549,2/5/2015,8:08 PM,Psychosis,ER Involuntary,PPD
+18420,7/15/2015,5:38 PM,Psychosis,ER Involuntary,PPD
+7229,2/2/2015,10:31 PM,Substance Related,ER Involuntary,PPD
+9214,2/19/2015,2:33 PM,Substance Related,ER Involuntary,PPD
+9415,7/21/2015,8:54 PM,Substance Related,ER Involuntary,PPD
+4251,5/9/2015,12:28 PM,Substance Related,ER Voluntary,PPD
+10184,7/22/2015,6:21 PM,Substance Related,ER Voluntary,PPD
+22830,8/12/2015,10:31 AM,Substance Related,ER Voluntary,PPD
+2226,2/19/2015,7:15 AM,Substance Related,Psych Involuntary,PPD
+14725,7/25/2015,4:41 PM,Substance Related,Psych Involuntary,APD
+9378,8/28/2015,8:41 PM,Substance Related,Psych Involuntary,APD
+12991,6/5/2015,6:26 PM,Substance Related,Psych Involuntary,APD
+20879,7/28/2015,4:11 PM,Substance Related,Psych Involuntary,APD
+19331,5/10/2015,12:52 PM,Substance Related,Psych Voluntary,APD
+19887,1/6/2015,3:24 PM,Substance Related,Psych Voluntary,APD
+7647,8/17/2015,2:49 PM,Substance Related,Psych Voluntary,APD
+16591,8/29/2015,8:50 AM,Substance Related,Psych Voluntary,APD
+17939,9/29/2015,8:34 AM,Substance Related,Psych Voluntary,APD
+20345,9/10/2015,3:23 PM,Substance Related,Psych Voluntary,APD
+19295,5/12/2015,2:54 PM,Psychosis,Community-Followup,APD
+7350,7/8/2015,12:54 PM,Psychosis,Community-Followup,APD
+21370,3/8/2015,7:10 AM,Psychosis,Community-Followup,APD
+20643,3/16/2015,11:04 AM,Psychosis,Community-Followup,APD
+10332,9/9/2015,10:52 AM,Psychosis,Community-Followup,APD
+4577,7/14/2015,5:54 PM,Suicidal Ideation,Community-Followup,APD
+13697,7/22/2015,6:55 PM,Suicidal Ideation,Community-Followup,APD
+18695,3/4/2015,7:02 PM,Suicidal Ideation,Community-Followup,APD
+12239,7/6/2015,9:16 PM,Suicidal Ideation,Community-Followup,APD
+8757,4/23/2015,8:14 AM,Suicidal Ideation,Community-Followup,APD
+9534,8/3/2015,6:53 PM,Suicidal Ideation,Community-Followup,APD
+5562,6/3/2015,4:08 PM,Suicidal Ideation,Community-Followup,APD
+19212,6/20/2015,10:17 PM,Suicidal Ideation,Community-Followup,APD
+17371,5/8/2015,7:53 AM,Suicidal Ideation,Psych Involuntary,APD
+23883,2/6/2015,3:25 PM,Suicidal Ideation,Psych Involuntary,APD
+19092,9/25/2015,10:09 PM,Suicidal Ideation,Psych Voluntary,APD
+12311,5/29/2015,11:46 AM,Suicidal Ideation,Psych Voluntary,APD
+8426,6/14/2015,6:13 PM,Suicidal Ideation,Arrested,APD
+16503,2/16/2015,2:06 PM,Suicidal Ideation,Arrested,APD
+2390,3/6/2015,6:31 PM,Suicidal Ideation,Community-Followup,APD
+8474,9/21/2015,9:57 PM,Suicidal Ideation,Community-Followup,APD
+6429,6/19/2015,8:05 AM,Suicidal Ideation,Community-Followup,APD
+10077,8/6/2015,12:31 PM,Suicidal Ideation,Community-Followup,APD
+11434,8/16/2015,8:14 AM,Suicidal Ideation,Community-Followup,APD
+14183,1/23/2015,8:59 PM,Suicidal Ideation,Community-Followup,APD
+16939,2/4/2015,3:48 PM,Suicidal Ideation,Community-Followup,PPD
+4599,5/1/2015,6:23 PM,Suicidal Ideation,Community-Followup,PPD
+14248,1/30/2015,7:19 PM,Suicidal Ideation,Community-Followup,PPD
+12218,8/26/2015,10:44 AM,Suicidal Ideation,Community-Followup,PPD
+22132,7/24/2015,7:07 PM,Suicidal Ideation,Community-Followup,PPD
+17943,4/12/2015,4:00 PM,Suicidal Ideation,Community-Followup,PPD
+20336,5/22/2015,12:49 PM,Suicidal Ideation,Community-Followup,PPD
+15495,3/29/2015,10:35 PM,Suicidal Ideation,Community-Followup,PPD
+6870,3/31/2015,9:07 AM,Suicidal Ideation,Community-Followup,PPD
+14953,4/27/2015,4:40 PM,Suicidal Ideation,Community-Followup,PPD
+18214,8/27/2015,7:28 PM,Suicidal Ideation,Community-Declined Service,PPD
+20670,4/10/2015,8:44 PM,Suicidal Ideation,Community-Declined Service,PPD
+12312,7/29/2015,9:21 AM,Suicidal Ideation,Community-Declined Service,PPD
+17814,8/24/2015,3:37 PM,Suicidal Ideation,Community-Declined Service,APD
+16083,2/14/2015,10:29 AM,Disturbance of Mood,Community-Declined Service,APD
+7037,7/24/2015,8:33 AM,Disturbance of Mood,Community-Declined Service,APD
+16749,3/19/2015,10:33 PM,Disturbance of Mood,Community-Declined Service,APD
+12691,6/23/2015,4:41 PM,Suicidal Ideation,Community-Declined Service,APD
+15475,7/17/2015,7:24 AM,Suicidal Ideation,Community-Declined Service,APD
+16620,4/10/2015,9:14 PM,Suicidal Ideation,ER Involuntary,APD
+15318,3/16/2015,10:03 AM,Suicidal Ideation,ER Involuntary,APD
+17387,6/5/2015,12:38 PM,Suicidal Ideation,ER Involuntary,APD
+14428,9/19/2015,7:23 AM,Suicidal Ideation,ER Involuntary,APD
+3532,2/26/2015,7:12 PM,Suicidal Ideation,ER Involuntary,APD
+9990,3/21/2015,5:45 PM,Suicidal Ideation,ER Voluntary,APD
+7906,9/16/2015,5:53 PM,Suicidal Ideation,ER Voluntary,APD
+23725,9/25/2015,8:15 PM,Suicidal Ideation,ER Voluntary,APD
+15425,7/26/2015,9:35 AM,Suicidal Ideation,Psych Involuntary,APD
+17051,4/23/2015,3:05 PM,Suicidal Ideation,Psych Involuntary,APD
+3759,8/9/2015,3:00 PM,Suicidal Ideation,Psych Involuntary,APD
+12114,3/22/2015,12:21 PM,Suicidal Ideation,Psych Involuntary,APD
+18353,6/23/2015,3:17 PM,Suicidal Ideation,Psych Involuntary,APD
+22428,5/8/2015,7:16 PM,Suicidal Ideation,Psych Voluntary,APD
+19640,3/23/2015,9:08 PM,Suicidal Ideation,Psych Voluntary,APD
+8217,9/16/2015,12:03 PM,Suicidal Ideation,Psych Voluntary,APD
+729,2/20/2015,11:39 AM,Suicidal Ideation,Psych Voluntary,APD
+10755,6/15/2015,8:56 AM,Suicidal Ideation,Psych Voluntary,APD
+5136,5/29/2015,4:20 PM,Suicidal Ideation,Psych Voluntary,APD
+3912,7/24/2015,8:35 PM,Suicidal Ideation,Community-Followup,APD
+14213,2/17/2015,7:25 AM,Suicidal Ideation,Community-Followup,APD
+13678,3/18/2015,10:52 AM,Suicidal Ideation,Community-Followup,APD
+11657,5/2/2015,3:31 PM,Suicidal Ideation,Community-Followup,APD
+18400,7/23/2015,5:19 PM,Suicidal Ideation,Community-Followup,APD
+13341,6/23/2015,7:28 PM,Suicidal Ideation,Community-Followup,APD
+2126,7/11/2015,10:34 AM,Suicidal Ideation,Community-Followup,APD
+16476,1/8/2015,12:05 PM,Suicidal Ideation,Community-Followup,APD
+6777,3/18/2015,10:15 AM,Suicidal Ideation,Community-Followup,APD
+22066,3/28/2015,9:17 PM,Suicidal Ideation,Community-Followup,APD
+15853,2/28/2015,7:46 PM,Suicidal Ideation,Community-Followup,PPD
+22344,7/8/2015,2:07 PM,Suicidal Ideation,Community-Followup,PPD
+13444,3/21/2015,8:28 PM,Suicidal Ideation,Community-Followup,PPD
+19699,1/29/2015,5:52 PM,Suicidal Ideation,Psych Involuntary,PPD
+20666,2/16/2015,7:28 PM,Suicidal Ideation,Psych Involuntary,PPD
+8200,6/30/2015,9:35 AM,Suicidal Ideation,Psych Voluntary,PPD
+21301,7/16/2015,6:28 PM,Suicidal Ideation,Psych Voluntary,APD
+21735,8/4/2015,7:35 AM,Suicidal Ideation,Arrested,APD
+8011,4/26/2015,2:44 PM,Suicidal Ideation,Arrested,APD
+23314,5/1/2015,8:46 AM,Disturbance of Mood,Community-Followup,APD
+16505,2/21/2015,5:35 PM,Disturbance of Mood,Community-Followup,APD
+21036,3/17/2015,7:14 PM,Disturbance of Mood,Community-Followup,APD
+8846,2/16/2015,8:17 AM,Psychosis,Community-Followup,APD
+22418,5/17/2015,4:24 PM,Psychosis,Community-Followup,APD
+16539,8/26/2015,7:48 PM,Psychosis,Community-Followup,APD
+20337,1/31/2015,4:22 PM,Psychosis,Community-Followup,APD
+7943,9/20/2015,5:35 PM,Psychosis,Community-Followup,APD
+13750,3/4/2015,4:38 PM,Psychosis,Community-Followup,APD
+14983,3/18/2015,3:50 PM,Psychosis,Community-Followup,APD
+3271,8/28/2015,1:50 PM,Psychosis,Community-Followup,APD
+18726,8/20/2015,9:04 AM,Psychosis,Community-Followup,APD
+19452,8/24/2015,8:44 AM,Psychosis,Community-Followup,APD
+14786,8/13/2015,8:44 AM,Psychosis,Community-Followup,APD
+5394,8/25/2015,4:52 PM,Psychosis,Community-Followup,APD
+8585,9/2/2015,9:19 PM,Psychosis,Community-Followup,APD
+4775,4/30/2015,6:21 PM,Psychosis,Community-Declined Service,APD
+14576,8/21/2015,3:26 PM,Psychosis,Community-Declined Service,APD
+773,8/11/2015,10:50 AM,Psychosis,Community-Declined Service,APD
+2333,1/20/2015,10:27 AM,Psychosis,Community-Declined Service,APD
+23643,9/9/2015,1:35 PM,Psychosis,Community-Declined Service,APD
+2875,6/8/2015,8:55 PM,Psychosis,Community-Declined Service,APD
+8330,3/13/2015,8:34 AM,Psychosis,Community-Declined Service,APD
+12394,5/5/2015,8:51 AM,Psychosis,Community-Declined Service,APD
+14379,4/2/2015,7:27 PM,Psychosis,Community-Declined Service,APD
+10846,5/9/2015,1:20 PM,Psychosis,ER Involuntary,APD
+3767,3/22/2015,10:47 AM,Psychosis,ER Involuntary,APD
+18305,1/28/2015,9:35 AM,Psychosis,ER Involuntary,APD
+22213,2/28/2015,8:47 AM,Psychosis,ER Involuntary,APD
+21478,7/18/2015,7:14 PM,Psychosis,ER Involuntary,APD
+1344,5/8/2015,5:42 PM,Psychosis,ER Voluntary,APD
+1994,5/16/2015,10:03 AM,Psychosis,ER Voluntary,APD
+14744,8/4/2015,12:16 PM,Psychosis,ER Voluntary,PPD
+18882,8/14/2015,4:01 PM,Psychosis,Psych Involuntary,PPD
+14337,2/11/2015,8:13 PM,Psychosis,Psych Involuntary,PPD
+10691,6/18/2015,9:03 PM,Psychosis,Psych Involuntary,PPD
+17218,5/10/2015,7:11 PM,Psychosis,Psych Involuntary,PPD
+694,1/1/2015,8:50 PM,Psychosis,Psych Involuntary,PPD
+7385,2/24/2015,7:28 PM,Psychosis,Psych Voluntary,PPD
+20575,6/30/2015,10:07 AM,Psychosis,Psych Voluntary,PPD
+15955,9/18/2015,3:36 PM,Psychosis,Psych Voluntary,PPD
+13102,4/1/2015,6:35 PM,Psychosis,Psych Voluntary,PPD
+19696,3/10/2015,10:20 AM,Suicidal Ideation,Psych Voluntary,PPD
+21831,9/7/2015,7:46 AM,Suicidal Ideation,Psych Voluntary,PPD
+3270,6/13/2015,2:39 PM,Suicidal Ideation,Community-Followup,PPD
+18114,7/1/2015,7:35 AM,Suicidal Ideation,Community-Followup,APD
+17831,4/14/2015,4:16 PM,Suicidal Ideation,Community-Followup,APD
+3263,4/12/2015,9:03 AM,Suicidal Ideation,Community-Followup,APD
+18785,4/17/2015,6:41 PM,Suicidal Ideation,Community-Followup,APD
+20402,5/4/2015,4:13 PM,Suicidal Ideation,Community-Followup,APD
+10618,3/12/2015,9:52 PM,Suicidal Ideation,Community-Followup,APD
+12328,5/18/2015,7:20 PM,Suicidal Ideation,Community-Followup,APD
+9158,7/30/2015,7:56 AM,Suicidal Ideation,Community-Followup,APD
+21238,7/19/2015,10:16 AM,Suicidal Ideation,Community-Followup,APD
+23288,4/12/2015,1:21 PM,Suicidal Ideation,Community-Followup,APD
+20651,8/9/2015,8:23 AM,Suicidal Ideation,Arrested,APD
+7125,8/24/2015,4:08 PM,Suicidal Ideation,Arrested,APD
+16662,2/14/2015,5:55 PM,Suicidal Ideation,Community-Followup,APD
+16905,8/19/2015,8:59 AM,Suicidal Ideation,Community-Followup,APD
+16691,1/26/2015,7:58 PM,Suicidal Ideation,Community-Followup,APD
+17424,5/12/2015,5:07 PM,Suicidal Ideation,Community-Followup,APD
+10606,6/18/2015,3:57 PM,Suicidal Ideation,Community-Followup,APD
+5514,2/6/2015,3:47 PM,Suicidal Ideation,Community-Followup,APD
+22586,4/14/2015,4:12 PM,Suicidal Ideation,Community-Followup,APD
+5440,5/19/2015,7:23 AM,Suicidal Ideation,Community-Followup,APD
+14425,6/12/2015,9:28 AM,Suicidal Ideation,Community-Followup,APD
+18018,3/15/2015,11:14 AM,Suicidal Ideation,Community-Followup,APD
+16922,1/2/2015,8:13 PM,Suicidal Ideation,Community-Followup,APD
+8313,6/4/2015,8:37 PM,Suicidal Ideation,Community-Followup,APD
+3775,2/12/2015,7:53 PM,Suicidal Ideation,Community-Followup,APD
+20807,3/14/2015,7:21 AM,Suicidal Ideation,Community-Followup,APD
+17596,4/14/2015,9:28 PM,Suicidal Ideation,Community-Followup,APD
+18688,3/28/2015,10:54 AM,Suicidal Ideation,Community-Followup,APD
+15462,9/11/2015,7:30 PM,Suicidal Ideation,Community-Declined Service,APD
+12408,3/8/2015,4:22 PM,Suicidal Ideation,Community-Declined Service,APD
+8224,2/24/2015,6:02 PM,Suicidal Ideation,Community-Declined Service,APD
+2811,7/19/2015,2:13 PM,Suicidal Ideation,Community-Declined Service,APD
+19475,7/3/2015,10:16 PM,Suicidal Ideation,Community-Declined Service,APD
+3841,6/3/2015,8:38 AM,Suicidal Ideation,Community-Declined Service,APD
+17038,2/15/2015,11:33 AM,Suicidal Ideation,Community-Declined Service,APD
+911,1/16/2015,5:48 PM,Suicidal Ideation,Community-Declined Service,PPD
+4583,8/12/2015,10:14 PM,Suicidal Ideation,Community-Declined Service,PPD
+19101,9/25/2015,8:28 AM,Suicidal Ideation,ER Involuntary,PPD
+13922,9/26/2015,1:36 PM,Disturbance of Mood,ER Involuntary,PPD
+3748,5/21/2015,10:40 PM,Disturbance of Mood,ER Involuntary,PPD
+7455,4/21/2015,9:24 PM,Disturbance of Mood,ER Involuntary,PPD
+6961,5/15/2015,7:02 AM,Disturbance of Mood,ER Involuntary,PPD
+23018,3/2/2015,10:59 AM,Disturbance of Mood,ER Voluntary,PPD
+5528,2/10/2015,1:18 PM,Disturbance of Mood,ER Voluntary,PPD
+11379,7/14/2015,7:23 AM,Disturbance of Mood,ER Voluntary,PPD
+1597,6/22/2015,7:26 PM,Disturbance of Mood,Psych Involuntary,PPD
+20022,3/15/2015,1:42 PM,Disturbance of Mood,Psych Involuntary,PPD
+21171,6/18/2015,1:57 PM,Disturbance of Mood,Psych Involuntary,PPD
+14196,3/3/2015,1:56 PM,Disturbance of Mood,Psych Involuntary,APD
+23093,1/14/2015,9:39 PM,Disturbance of Mood,Psych Involuntary,APD
+1738,3/21/2015,9:13 PM,Disturbance of Mood,Psych Voluntary,APD
+6188,9/23/2015,5:58 PM,Self Injurious Behavior,Psych Voluntary,APD
+10694,4/30/2015,8:24 PM,Self Injurious Behavior,Psych Voluntary,APD
+11542,5/11/2015,4:34 PM,Self Injurious Behavior,Psych Voluntary,APD
+7158,8/9/2015,4:21 PM,Self Injurious Behavior,Psych Voluntary,APD
+19852,3/27/2015,2:24 PM,Self Injurious Behavior,Psych Voluntary,APD
+10508,2/25/2015,6:18 PM,Self Injurious Behavior,Community-Followup,APD
+6380,9/18/2015,4:04 PM,Self Injurious Behavior,Community-Followup,APD
+18375,7/18/2015,3:42 PM,Suicidal Ideation,Community-Followup,APD
+10039,4/29/2015,7:49 PM,Suicidal Ideation,Community-Followup,APD
+18744,4/8/2015,2:49 PM,Suicidal Ideation,Community-Followup,APD
+5682,4/1/2015,3:10 PM,Suicidal Ideation,Community-Followup,APD
+4838,8/10/2015,4:18 PM,Suicidal Ideation,Community-Followup,APD
+2322,1/10/2015,2:15 PM,Psychosis,Community-Followup,APD
+13672,3/24/2015,12:41 PM,Psychosis,Community-Followup,APD
+12313,8/13/2015,3:57 PM,Psychosis,Community-Followup,APD
+9967,5/12/2015,9:53 AM,Psychosis,Community-Followup,APD
+3325,4/3/2015,8:16 PM,Psychosis,Community-Followup,APD
+9798,6/22/2015,6:57 PM,Psychosis,Community-Followup,APD
+21237,5/4/2015,3:32 PM,Substance Related,Psych Involuntary,APD
+1056,3/4/2015,12:59 PM,Substance Related,Psych Involuntary,APD
+23004,8/13/2015,9:45 AM,Substance Related,Psych Voluntary,APD
+12962,8/31/2015,4:40 PM,Substance Related,Arrested,APD
+10057,1/6/2015,1:56 PM,Substance Related,Arrested,APD
+19558,6/15/2015,7:03 AM,Substance Related,Community-Followup,APD
+23006,3/10/2015,4:19 PM,Substance Related,Community-Followup,APD
+18390,5/31/2015,10:41 AM,Substance Related,Community-Followup,APD
+11770,5/22/2015,12:20 PM,Substance Related,Community-Followup,APD
+6807,1/9/2015,10:11 AM,Substance Related,Community-Followup,APD
+1938,3/30/2015,9:14 PM,Substance Related,Community-Followup,APD
+14535,7/14/2015,9:20 AM,Substance Related,Community-Followup,APD
+3278,5/6/2015,9:10 AM,Substance Related,Community-Followup,APD
+7797,2/7/2015,8:31 PM,Substance Related,Community-Followup,APD
+12722,3/2/2015,11:09 AM,Substance Related,Community-Followup,PPD
+22048,6/11/2015,7:14 PM,Substance Related,Community-Followup,PPD
+22129,9/16/2015,5:55 PM,Substance Related,Community-Followup,PPD
+4423,8/3/2015,4:12 PM,Psychosis,Community-Followup,PPD
+14461,6/8/2015,1:04 PM,Psychosis,Community-Followup,PPD
+8374,6/27/2015,9:13 PM,Psychosis,Community-Followup,PPD
+12858,1/15/2015,4:48 PM,Psychosis,Community-Followup,PPD
+21310,2/8/2015,6:26 PM,Psychosis,Community-Declined Service,PPD
+15698,4/4/2015,4:14 PM,Suicidal Ideation,Community-Declined Service,PPD
+8885,3/3/2015,5:17 PM,Suicidal Ideation,Community-Declined Service,PPD
+17358,6/15/2015,11:02 AM,Suicidal Ideation,Community-Declined Service,PPD
+1808,5/24/2015,11:04 AM,Suicidal Ideation,Community-Declined Service,PPD
+18135,3/22/2015,3:03 PM,Suicidal Ideation,Community-Declined Service,PPD
+2945,6/20/2015,1:52 PM,Suicidal Ideation,Community-Declined Service,APD
+8029,2/2/2015,8:38 PM,Suicidal Ideation,Community-Declined Service,APD
+12319,3/1/2015,8:26 AM,Suicidal Ideation,Community-Declined Service,APD
+18425,4/17/2015,4:10 PM,Suicidal Ideation,ER Involuntary,APD
+22777,2/25/2015,5:16 PM,Suicidal Ideation,ER Involuntary,APD
+11517,1/12/2015,3:24 PM,Suicidal Ideation,ER Involuntary,APD
+22795,3/3/2015,2:04 PM,Suicidal Ideation,ER Involuntary,APD
+16992,6/7/2015,1:28 PM,Suicidal Ideation,ER Involuntary,APD
+5155,6/4/2015,7:07 AM,Suicidal Ideation,ER Voluntary,APD
+14873,2/17/2015,8:35 AM,Suicidal Ideation,ER Voluntary,APD
+17330,6/4/2015,9:54 PM,Suicidal Ideation,ER Voluntary,APD
+22209,5/5/2015,4:23 PM,Suicidal Ideation,Psych Involuntary,APD
+6566,1/17/2015,5:41 PM,Suicidal Ideation,Psych Involuntary,APD
+22978,9/12/2015,9:38 AM,Suicidal Ideation,Psych Involuntary,APD
+3280,1/19/2015,10:27 AM,Suicidal Ideation,Psych Involuntary,APD
+4433,9/10/2015,6:16 PM,Suicidal Ideation,Psych Involuntary,APD
+21478,5/22/2015,9:44 PM,Suicidal Ideation,Psych Voluntary,APD
+15593,2/13/2015,7:20 AM,Suicidal Ideation,Psych Voluntary,APD
+1461,8/3/2015,12:10 PM,Suicidal Ideation,Psych Voluntary,APD
+22520,8/8/2015,11:00 AM,Suicidal Ideation,Psych Voluntary,APD
+17853,3/6/2015,12:43 PM,Suicidal Ideation,Psych Voluntary,APD
+18699,5/27/2015,1:09 PM,Suicidal Ideation,Psych Voluntary,APD
+9238,7/24/2015,1:58 PM,Suicidal Ideation,Community-Followup,APD
+6948,3/30/2015,12:46 PM,Suicidal Ideation,Community-Followup,APD
+23586,4/16/2015,8:37 PM,Suicidal Ideation,Community-Followup,APD
+9562,9/4/2015,8:02 AM,Suicidal Ideation,Community-Followup,APD
+4447,7/15/2015,7:46 PM,Suicidal Ideation,Community-Followup,APD
+10055,5/23/2015,8:17 PM,Suicidal Ideation,Community-Followup,APD
+8789,2/7/2015,8:31 PM,Suicidal Ideation,Community-Followup,APD
+7742,2/24/2015,9:24 PM,Disturbance of Mood,Community-Followup,APD
+14595,3/19/2015,9:33 AM,Disturbance of Mood,Community-Followup,APD
+6504,7/1/2015,7:43 PM,Disturbance of Mood,Community-Followup,APD
+9706,8/23/2015,9:05 AM,Suicidal Ideation,Community-Followup,APD
